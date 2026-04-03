@@ -1,0 +1,159 @@
+- generic [active] [ref=e1]:
+  - region "This site uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic." [ref=e2]:
+    - generic [ref=e3]:
+      - text: This site uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic.
+      - generic [ref=e4]:
+        - link "Learn more" [ref=e5] [cursor=pointer]:
+          - /url: https://policies.google.com/technologies/cookies?hl=en
+        - button "OK, got it" [ref=e6] [cursor=pointer]
+  - generic [ref=e8]:
+    - generic [ref=e9]:
+      - button "Open Menu" [ref=e10] [cursor=pointer]:
+        - img [ref=e11]:
+          - img [ref=e12]
+      - img [ref=e17]
+    - generic [ref=e21]:
+      - button "Log in" [ref=e22] [cursor=pointer]:
+        - paragraph [ref=e23]: Log in
+        - img [ref=e24]: person_filled
+      - main [ref=e28]:
+        - generic [ref=e29]:
+          - generic "Organizations" [ref=e30]:
+            - generic [ref=e40]:
+              - list [ref=e41]:
+                - listitem [ref=e42]: 2026 Program
+              - heading "Organizations" [level=2] [ref=e44]
+          - generic [ref=e45]:
+            - listbox "Categories" [ref=e47]:
+              - option "All" [selected] [ref=e49] [cursor=pointer]:
+                - generic:
+                  - generic:
+                    - img
+                - generic [ref=e50]: All
+              - option "Artificial Intelligence" [ref=e53] [cursor=pointer]:
+                - generic:
+                  - generic:
+                    - img
+                - generic [ref=e54]: Artificial Intelligence
+              - option "Data" [ref=e57] [cursor=pointer]:
+                - generic:
+                  - generic:
+                    - img
+                - generic [ref=e58]: Data
+              - option "Development tools" [ref=e61] [cursor=pointer]:
+                - generic:
+                  - generic:
+                    - img
+                - generic [ref=e62]: Development tools
+              - option "End user applications" [ref=e65] [cursor=pointer]:
+                - generic:
+                  - generic:
+                    - img
+                - generic [ref=e66]: End user applications
+              - option "Infrastructure and cloud" [ref=e69] [cursor=pointer]:
+                - generic:
+                  - generic:
+                    - img
+                - generic [ref=e70]: Infrastructure and cloud
+              - option "Media" [ref=e73] [cursor=pointer]:
+                - generic:
+                  - generic:
+                    - img
+                - generic [ref=e74]: Media
+              - option "Operating systems" [ref=e77] [cursor=pointer]:
+                - generic:
+                  - generic:
+                    - img
+                - generic [ref=e78]: Operating systems
+              - option "Programming languages" [ref=e81] [cursor=pointer]:
+                - generic:
+                  - generic:
+                    - img
+                - generic [ref=e82]: Programming languages
+              - option "Science and medicine" [ref=e85] [cursor=pointer]:
+                - generic:
+                  - generic:
+                    - img
+                - generic [ref=e86]: Science and medicine
+              - option "Security" [ref=e89] [cursor=pointer]:
+                - generic:
+                  - generic:
+                    - img
+                - generic [ref=e90]: Security
+              - option "Social and communication" [ref=e93] [cursor=pointer]:
+                - generic:
+                  - generic:
+                    - img
+                - generic [ref=e94]: Social and communication
+              - option "Web" [ref=e97] [cursor=pointer]:
+                - generic:
+                  - generic:
+                    - img
+                - generic [ref=e98]: Web
+              - option "Other" [ref=e101] [cursor=pointer]:
+                - generic:
+                  - generic:
+                    - img
+                - generic [ref=e102]: Other
+            - progressbar [ref=e106]:
+              - img [ref=e108]
+              - generic [ref=e111]:
+                - img [ref=e113]
+                - img [ref=e116]
+                - img [ref=e119]
+      - contentinfo [ref=e122]:
+        - generic [ref=e124]:
+          - generic [ref=e125]:
+            - generic [ref=e127]:
+              - link "Google Summer of Code logo Google Summer of Code Home" [ref=e128] [cursor=pointer]:
+                - /url: /
+                - img "Google Summer of Code logo" [ref=e129]
+                - generic [ref=e130]: Google Summer of Code Home
+              - paragraph [ref=e131]: Introducing developers to open source software development
+            - generic [ref=e133]:
+              - list [ref=e134]:
+                - listitem [ref=e135]:
+                  - link "About" [ref=e136] [cursor=pointer]:
+                    - /url: /about
+                - listitem [ref=e137]:
+                  - link "Get started" [ref=e138] [cursor=pointer]:
+                    - /url: /get-started
+                - listitem [ref=e139]:
+                  - link "How it works" [ref=e140] [cursor=pointer]:
+                    - /url: /how-it-works
+                - listitem [ref=e141]:
+                  - link "Past programs" [ref=e142] [cursor=pointer]:
+                    - /url: /archive
+                - listitem [ref=e143]:
+                  - link "Program timeline" [ref=e144] [cursor=pointer]:
+                    - /url: https://developers.google.com/open-source/gsoc/timeline
+              - list [ref=e145]:
+                - listitem [ref=e146]:
+                  - link "2026 program" [ref=e147] [cursor=pointer]:
+                    - /url: /programs/2026
+                - listitem [ref=e148]:
+                  - link "News" [ref=e149] [cursor=pointer]:
+                    - /url: https://opensource.googleblog.com/search/label/gsoc
+                - listitem [ref=e150]:
+                  - link "Help" [ref=e151] [cursor=pointer]:
+                    - /url: /help
+                - listitem [ref=e152]:
+                  - link "GSoC YouTube" [ref=e153] [cursor=pointer]:
+                    - /url: https://www.youtube.com/c/GoogleOpenSource/playlists
+                - listitem [ref=e154]:
+                  - link "Contact" [ref=e155] [cursor=pointer]:
+                    - /url: https://developers.google.com/open-source/gsoc/contact
+          - separator [ref=e158]
+          - list [ref=e162]:
+            - listitem [ref=e163]:
+              - link "Google" [ref=e164] [cursor=pointer]:
+                - /url: https://www.google.com
+            - listitem [ref=e165]:
+              - link "Privacy" [ref=e166] [cursor=pointer]:
+                - /url: https://policies.google.com/privacy?hl=en
+            - listitem [ref=e167]:
+              - link "Rules" [ref=e168] [cursor=pointer]:
+                - /url: /rules
+            - listitem [ref=e169]:
+              - link "Terms" [ref=e170] [cursor=pointer]:
+                - /url: /terms

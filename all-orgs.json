@@ -1,0 +1,255 @@
+{
+  "count": 50,
+  "rows": [
+    {
+      "slug": "global-alliance-for-genomics-and-health",
+      "text": "Global Alliance for Genomics and Health We develop genomics tools to benefit human health",
+      "name": "Global Alliance for Genomics and Health We develop genomics tools to benefit human health"
+    },
+    {
+      "slug": "humanai",
+      "text": "HumanAI AI for the Arts and the Humanities",
+      "name": "HumanAI AI for the Arts and the Humanities"
+    },
+    {
+      "slug": "ardupilot",
+      "text": "ArduPilot World's most advanced autonomous vehicle software",
+      "name": "ArduPilot World's most advanced autonomous vehicle software"
+    },
+    {
+      "slug": "openvino-toolkit",
+      "text": "OpenVINO Toolkit Make AI inference faster and easier to deploy!",
+      "name": "OpenVINO Toolkit Make AI inference faster and easier to deploy!"
+    },
+    {
+      "slug": "kornia",
+      "text": "Kornia Advancing Computer Vision & Spatial AI, Openly",
+      "name": "Kornia Advancing Computer Vision & Spatial AI, Openly"
+    },
+    {
+      "slug": "pecan-project",
+      "text": "PEcAn Project Develop and promote tools for ecosystem modeling",
+      "name": "PEcAn Project Develop and promote tools for ecosystem modeling"
+    },
+    {
+      "slug": "cern-hsf",
+      "text": "CERN-HSF Umbrella for Particle Physics-related projects",
+      "name": "CERN-HSF Umbrella for Particle Physics-related projects"
+    },
+    {
+      "slug": "stichting-su2",
+      "text": "Stichting SU2 Computational Fluid Dynamics and Optimization",
+      "name": "Stichting SU2 Computational Fluid Dynamics and Optimization"
+    },
+    {
+      "slug": "mit-app-inventor",
+      "text": "MIT App Inventor Anyone can build apps with global impact",
+      "name": "MIT App Inventor Anyone can build apps with global impact"
+    },
+    {
+      "slug": "kubeflow",
+      "text": "Kubeflow The Machine Learning Toolkit for Kubernetes (AI)",
+      "name": "Kubeflow The Machine Learning Toolkit for Kubernetes (AI)"
+    },
+    {
+      "slug": "52north-spatial-information-research-gmbh",
+      "text": "52°North Spatial Information Research GmbH Innovative ideas & technologies in geoinformatics",
+      "name": "52°North Spatial Information Research GmbH Innovative ideas & technologies in geoinformatics"
+    },
+    {
+      "slug": "data-for-the-common-good",
+      "text": "Data for the Common Good Connect. Share. Discover.",
+      "name": "Data for the Common Good Connect. Share. Discover."
+    },
+    {
+      "slug": "joplin",
+      "text": "Joplin The secure note taking application",
+      "name": "Joplin The secure note taking application"
+    },
+    {
+      "slug": "invesalius",
+      "text": "Invesalius 3D Medical visualization and neuronavigation tool",
+      "name": "Invesalius 3D Medical visualization and neuronavigation tool"
+    },
+    {
+      "slug": "submitty",
+      "text": "Submitty Homework Autograding and Course Management Tools",
+      "name": "Submitty Homework Autograding and Course Management Tools"
+    },
+    {
+      "slug": "grame",
+      "text": "GRAME Domain specific language for audio",
+      "name": "GRAME Domain specific language for audio"
+    },
+    {
+      "slug": "oppia-foundation",
+      "text": "Oppia Foundation Free platform for interactive, tutor-like lessons",
+      "name": "Oppia Foundation Free platform for interactive, tutor-like lessons"
+    },
+    {
+      "slug": "mariadb",
+      "text": "MariaDB The fastest growing Open Source Database",
+      "name": "MariaDB The fastest growing Open Source Database"
+    },
+    {
+      "slug": "haiku",
+      "text": "Haiku Operating system that targets personal computing.",
+      "name": "Haiku Operating system that targets personal computing."
+    },
+    {
+      "slug": "united-nations-office-of-information-communication-technology",
+      "text": "United Nations Office of Information Communication Technology Sustainable future through innovative technology.",
+      "name": "United Nations Office of Information Communication Technology Sustainable future through innovative technology."
+    },
+    {
+      "slug": "mdanalysis",
+      "text": "MDAnalysis Analysis of molecular simulations data with Python",
+      "name": "MDAnalysis Analysis of molecular simulations data with Python"
+    },
+    {
+      "slug": "precice",
+      "text": "preCICE The coupling library for multi-physics simulations",
+      "name": "preCICE The coupling library for multi-physics simulations"
+    },
+    {
+      "slug": "tiled",
+      "text": "Tiled A flexible level editor for everyone!",
+      "name": "Tiled A flexible level editor for everyone!"
+    },
+    {
+      "slug": "aossie",
+      "text": "AOSSIE Australian Umbrella Org for Open-Source Projects",
+      "name": "AOSSIE Australian Umbrella Org for Open-Source Projects"
+    },
+    {
+      "slug": "videolan",
+      "text": "VideoLAN Open Source Multimedia for everyone!",
+      "name": "VideoLAN Open Source Multimedia for everyone!"
+    },
+    {
+      "slug": "free-and-open-source-silicon-foundation",
+      "text": "Free and Open Source Silicon Foundation Working together for Free and Open Source Silicon",
+      "name": "Free and Open Source Silicon Foundation Working together for Free and Open Source Silicon"
+    },
+    {
+      "slug": "learning-unlimited",
+      "text": "Learning Unlimited Building excitement for teaching and learning",
+      "name": "Learning Unlimited Building excitement for teaching and learning"
+    },
+    {
+      "slug": "python-software-foundation",
+      "text": "Python Software Foundation A programming language used for science & more",
+      "name": "Python Software Foundation A programming language used for science & more"
+    },
+    {
+      "slug": "open-robotics",
+      "text": "Open Robotics Open source robotics and a whole lot more!",
+      "name": "Open Robotics Open source robotics and a whole lot more!"
+    },
+    {
+      "slug": "the-p4-language-consortium",
+      "text": "The P4 Language Consortium Evolve the programmable data plane ecosystem!",
+      "name": "The P4 Language Consortium Evolve the programmable data plane ecosystem!"
+    },
+    {
+      "slug": "ceph",
+      "text": "Ceph The Future of Storage",
+      "name": "Ceph The Future of Storage"
+    },
+    {
+      "slug": "wikimedia-foundation-nd",
+      "text": "Wikimedia Foundation Bringing free educational content to the world",
+      "name": "Wikimedia Foundation Bringing free educational content to the world"
+    },
+    {
+      "slug": "mixxx",
+      "text": "Mixxx DJ Mixing App With Powerful Features For All DJs",
+      "name": "Mixxx DJ Mixing App With Powerful Features For All DJs"
+    },
+    {
+      "slug": "the-mifos-initiative",
+      "text": "The Mifos Initiative End Poverty One Line of Code at a Time",
+      "name": "The Mifos Initiative End Poverty One Line of Code at a Time"
+    },
+    {
+      "slug": "cuneiform-digital-library-initiative-cdli",
+      "text": "Cuneiform Digital Library Initiative (CDLI) Curating humanity’s earliest written history",
+      "name": "Cuneiform Digital Library Initiative (CDLI) Curating humanity’s earliest written history"
+    },
+    {
+      "slug": "deepchem",
+      "text": "DeepChem Democratize AI for drug discovery.",
+      "name": "DeepChem Democratize AI for drug discovery."
+    },
+    {
+      "slug": "swift",
+      "text": "Swift Fast, safe, and expressive programming language",
+      "name": "Swift Fast, safe, and expressive programming language"
+    },
+    {
+      "slug": "malariagen",
+      "text": "MalariaGEN The Malaria Genomic Epidemiology Network",
+      "name": "MalariaGEN The Malaria Genomic Epidemiology Network"
+    },
+    {
+      "slug": "libssh",
+      "text": "libssh The SSH library",
+      "name": "libssh The SSH library"
+    },
+    {
+      "slug": "gnome-foundation",
+      "text": "GNOME Foundation A diverse and sustainable free software desktop.",
+      "name": "GNOME Foundation A diverse and sustainable free software desktop."
+    },
+    {
+      "slug": "qc-devs",
+      "text": "QC-Devs Sustainable software for quantum chemistry & more",
+      "name": "QC-Devs Sustainable software for quantum chemistry & more"
+    },
+    {
+      "slug": "qubes-os-f3",
+      "text": "Qubes OS A reasonably secure operating system",
+      "name": "Qubes OS A reasonably secure operating system"
+    },
+    {
+      "slug": "synfig",
+      "text": "Synfig Open-source 2D animation software",
+      "name": "Synfig Open-source 2D animation software"
+    },
+    {
+      "slug": "freecad",
+      "text": "FreeCAD Cross-platform 3D parametric modeler",
+      "name": "FreeCAD Cross-platform 3D parametric modeler"
+    },
+    {
+      "slug": "openwisp",
+      "text": "OpenWISP The Hackable Network Management System",
+      "name": "OpenWISP The Hackable Network Management System"
+    },
+    {
+      "slug": "metacall",
+      "text": "MetaCall Simplifying the embedding of programming languages",
+      "name": "MetaCall Simplifying the embedding of programming languages"
+    },
+    {
+      "slug": "gambit-the-package-for-computation-in-game-theory",
+      "text": "Gambit: The package for computation in game theory The package for computation in game theory",
+      "name": "Gambit: The package for computation in game theory The package for computation in game theory"
+    },
+    {
+      "slug": "kubevirt",
+      "text": "KubeVirt Building a virtualization API for Kubernetes",
+      "name": "KubeVirt Building a virtualization API for Kubernetes"
+    },
+    {
+      "slug": "neuroinformatics-unit",
+      "text": "Neuroinformatics Unit Open-source tools for neuroscience and ML",
+      "name": "Neuroinformatics Unit Open-source tools for neuroscience and ML"
+    },
+    {
+      "slug": "international-catrobat-association",
+      "text": "International Catrobat Association Free visual coding apps for computational thinking",
+      "name": "International Catrobat Association Free visual coding apps for computational thinking"
+    }
+  ]
+}

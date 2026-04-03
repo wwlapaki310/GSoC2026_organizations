@@ -15,3 +15,11 @@
 *.aliases
 *.lvlps
 .cache/
+
+# Book build outputs
+output/
+build/
+
+# Pandoc transient files
+*.log
+*.tmp

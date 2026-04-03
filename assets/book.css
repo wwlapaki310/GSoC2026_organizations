@@ -1,0 +1,161 @@
+:root {
+    color-scheme: light;
+    --page-bg: #f6f1e8;
+    --paper-bg: #fffdfa;
+    --ink: #20201c;
+    --muted: #5e5b53;
+    --rule: #d5c9b5;
+    --accent: #8a3b12;
+    --accent-soft: #f0e0cf;
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    margin: 0 auto;
+    max-width: 52rem;
+    padding: 2rem 1.5rem 4rem;
+    background: linear-gradient(180deg, var(--page-bg) 0%, #efe7da 100%);
+    color: var(--ink);
+    font-family: "BIZ UDPMincho", "Yu Mincho", "Hiragino Mincho ProN", serif;
+    line-height: 1.9;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    color: var(--ink);
+    font-family: "Yu Gothic", "Hiragino Sans", sans-serif;
+    font-weight: 700;
+    line-height: 1.35;
+}
+
+h1,
+h2 {
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 0.35rem;
+}
+
+h2 {
+    margin-top: 2.8rem;
+}
+
+h3 {
+    margin-top: 1.8rem;
+    color: var(--accent);
+}
+
+h2 + p {
+    margin-top: 0.8rem;
+}
+
+p,
+li {
+    color: var(--ink);
+}
+
+ul,
+ol {
+    padding-left: 1.4rem;
+}
+
+blockquote {
+    margin: 1.5rem 0;
+    padding: 0.8rem 1rem;
+    border-left: 4px solid var(--accent);
+    background: var(--accent-soft);
+}
+
+code {
+    padding: 0.1rem 0.3rem;
+    background: #efe4d2;
+    border-radius: 0.25rem;
+    font-family: "Cascadia Mono", "Consolas", monospace;
+    font-size: 0.92em;
+}
+
+a {
+    color: var(--accent);
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid var(--rule);
+    margin: 2rem 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+img.org-icon {
+    display: block;
+    width: 5.25rem;
+    height: 5.25rem;
+    object-fit: contain;
+    margin: 0.35rem 0 0.85rem;
+    padding: 0.45rem;
+    background: var(--paper-bg);
+    border: 1px solid var(--rule);
+    border-radius: 0.9rem;
+    box-shadow: 0 0.35rem 1rem rgba(32, 32, 28, 0.08);
+}
+
+#alphabet-index,
+h2[id="alphabet-index"] {
+    margin-top: 2rem;
+}
+
+h2[id="0-9"],
+h2[id="a"],
+h2[id="b"],
+h2[id="c"],
+h2[id="d"],
+h2[id="e"],
+h2[id="f"],
+h2[id="g"],
+h2[id="h"],
+h2[id="i"],
+h2[id="j"],
+h2[id="k"],
+h2[id="l"],
+h2[id="m"],
+h2[id="n"],
+h2[id="o"],
+h2[id="p"],
+h2[id="q"],
+h2[id="r"],
+h2[id="s"],
+h2[id="t"],
+h2[id="u"],
+h2[id="v"],
+h2[id="w"],
+h2[id="x"],
+h2[id="y"],
+h2[id="z"] {
+    display: inline-block;
+    min-width: 3.2rem;
+    margin-top: 2.6rem;
+    padding: 0.2rem 0.9rem 0.35rem;
+    border: 1px solid var(--rule);
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: var(--paper-bg);
+}
+
+th,
+td {
+    border: 1px solid var(--rule);
+    padding: 0.5rem 0.65rem;
+    text-align: left;
+}

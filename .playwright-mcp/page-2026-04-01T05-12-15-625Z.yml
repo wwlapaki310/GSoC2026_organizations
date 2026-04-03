@@ -1,0 +1,490 @@
+- generic [active] [ref=e1]:
+  - region "This site uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic." [ref=e2]:
+    - generic [ref=e3]:
+      - text: This site uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic.
+      - generic [ref=e4]:
+        - link "Learn more" [ref=e5] [cursor=pointer]:
+          - /url: https://policies.google.com/technologies/cookies?hl=en
+        - button "OK, got it" [ref=e6] [cursor=pointer]
+  - generic [ref=e8]:
+    - generic [ref=e9]:
+      - button "Open Menu" [ref=e10] [cursor=pointer]:
+        - img [ref=e11]:
+          - img [ref=e12]
+      - img [ref=e17]
+    - generic [ref=e21]:
+      - button "Log in" [ref=e22] [cursor=pointer]:
+        - paragraph [ref=e23]: Log in
+        - img [ref=e24]: person_filled
+      - main [ref=e28]:
+        - generic [ref=e29]:
+          - generic "Organizations" [ref=e30]:
+            - generic [ref=e40]:
+              - list [ref=e41]:
+                - listitem [ref=e42]: 2026 Program
+              - heading "Organizations" [level=2] [ref=e44]
+          - generic [ref=e45]:
+            - listbox "Categories" [ref=e47]:
+              - option "All" [selected] [ref=e49] [cursor=pointer]:
+                - generic:
+                  - generic:
+                    - img
+                - generic [ref=e50]: All
+              - option "Artificial Intelligence" [ref=e53] [cursor=pointer]:
+                - generic:
+                  - generic:
+                    - img
+                - generic [ref=e54]: Artificial Intelligence
+              - option "Data" [ref=e57] [cursor=pointer]:
+                - generic:
+                  - generic:
+                    - img
+                - generic [ref=e58]: Data
+              - option "Development tools" [ref=e61] [cursor=pointer]:
+                - generic:
+                  - generic:
+                    - img
+                - generic [ref=e62]: Development tools
+              - option "End user applications" [ref=e65] [cursor=pointer]:
+                - generic:
+                  - generic:
+                    - img
+                - generic [ref=e66]: End user applications
+              - option "Infrastructure and cloud" [ref=e69] [cursor=pointer]:
+                - generic:
+                  - generic:
+                    - img
+                - generic [ref=e70]: Infrastructure and cloud
+              - option "Media" [ref=e73] [cursor=pointer]:
+                - generic:
+                  - generic:
+                    - img
+                - generic [ref=e74]: Media
+              - option "Operating systems" [ref=e77] [cursor=pointer]:
+                - generic:
+                  - generic:
+                    - img
+                - generic [ref=e78]: Operating systems
+              - option "Programming languages" [ref=e81] [cursor=pointer]:
+                - generic:
+                  - generic:
+                    - img
+                - generic [ref=e82]: Programming languages
+              - option "Science and medicine" [ref=e85] [cursor=pointer]:
+                - generic:
+                  - generic:
+                    - img
+                - generic [ref=e86]: Science and medicine
+              - option "Security" [ref=e89] [cursor=pointer]:
+                - generic:
+                  - generic:
+                    - img
+                - generic [ref=e90]: Security
+              - option "Social and communication" [ref=e93] [cursor=pointer]:
+                - generic:
+                  - generic:
+                    - img
+                - generic [ref=e94]: Social and communication
+              - option "Web" [ref=e97] [cursor=pointer]:
+                - generic:
+                  - generic:
+                    - img
+                - generic [ref=e98]: Web
+              - option "Other" [ref=e101] [cursor=pointer]:
+                - generic:
+                  - generic:
+                    - img
+                - generic [ref=e102]: Other
+            - generic [ref=e105]:
+              - generic [ref=e106]:
+                - search "Search organizations, technology or topics" [ref=e107]:
+                  - generic [ref=e109]:
+                    - textbox "Search organizations, technology or topics" [ref=e110]
+                    - img [ref=e111] [cursor=pointer]: search
+                - generic [ref=e113]:
+                  - generic [ref=e115]:
+                    - generic [ref=e116]: Sort by
+                    - group [ref=e117]:
+                      - button "Sort by ascending order." [ref=e118] [cursor=pointer]:
+                        - generic [ref=e119]: A-Z
+                      - button "Sort by descending order." [ref=e120] [cursor=pointer]:
+                        - generic [ref=e121]: Z-A
+                      - button "Sort by random order." [pressed] [ref=e122] [cursor=pointer]:
+                        - generic [ref=e123]: Random
+                  - group [ref=e126]:
+                    - button "Change to grid view." [pressed] [ref=e128] [cursor=pointer]:
+                      - img [ref=e130]: grid_view
+                    - button "Change to list view." [ref=e132] [cursor=pointer]:
+                      - img [ref=e134]: list_view
+              - generic [ref=e135]: The following section is sorted by random order.
+              - generic [ref=e137]:
+                - link "GNOME Foundation A diverse and sustainable free software desktop." [ref=e143] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/gnome-foundation
+                  - img [ref=e146]
+                  - generic [ref=e147]:
+                    - generic [ref=e148]: GNOME Foundation
+                    - generic [ref=e149]: A diverse and sustainable free software desktop.
+                - link "CCExtractor Development TV, Rust, Flutter, Linux, VR and C. In any order." [ref=e155] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/ccextractor-development
+                  - img [ref=e158]
+                  - generic [ref=e159]:
+                    - generic [ref=e160]: CCExtractor Development
+                    - generic [ref=e161]: TV, Rust, Flutter, Linux, VR and C. In any order.
+                - link "Mixxx DJ Mixing App With Powerful Features For All DJs" [ref=e167] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/mixxx
+                  - img [ref=e170]
+                  - generic [ref=e171]:
+                    - generic [ref=e172]: Mixxx
+                    - generic [ref=e173]: DJ Mixing App With Powerful Features For All DJs
+                - link "LibreOffice LibreOffice is a free and open source office suite" [ref=e179] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/libreoffice
+                  - img [ref=e182]
+                  - generic [ref=e183]:
+                    - generic [ref=e184]: LibreOffice
+                    - generic [ref=e185]: LibreOffice is a free and open source office suite
+                - link "Alaska Many Traditions, One Alaska" [ref=e191] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/alaska
+                  - img [ref=e194]
+                  - generic [ref=e195]:
+                    - generic [ref=e196]: Alaska
+                    - generic [ref=e197]: Many Traditions, One Alaska
+                - link "LabLua Programming Language Research with emphasis on Lua" [ref=e203] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/lablua
+                  - img [ref=e206]
+                  - generic [ref=e207]:
+                    - generic [ref=e208]: LabLua
+                    - generic [ref=e209]: Programming Language Research with emphasis on Lua
+                - link "Data for the Common Good Connect. Share. Discover." [ref=e215] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/data-for-the-common-good
+                  - img [ref=e218]
+                  - generic [ref=e219]:
+                    - generic [ref=e220]: Data for the Common Good
+                    - generic [ref=e221]: Connect. Share. Discover.
+                - link "Cuneiform Digital Library Initiative (CDLI) Curating humanity’s earliest written history" [ref=e227] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/cuneiform-digital-library-initiative-cdli
+                  - img [ref=e230]
+                  - generic [ref=e231]:
+                    - generic [ref=e232]: Cuneiform Digital Library Initiative (CDLI)
+                    - generic [ref=e233]: Curating humanity’s earliest written history
+                - link "IOOS Our eyes on the ocean, coasts, and Great Lakes" [ref=e239] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/ioos
+                  - img [ref=e242]
+                  - generic [ref=e243]:
+                    - generic [ref=e244]: IOOS
+                    - generic [ref=e245]: Our eyes on the ocean, coasts, and Great Lakes
+                - link "Open Robotics Open source robotics and a whole lot more!" [ref=e251] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/open-robotics
+                  - img [ref=e254]
+                  - generic [ref=e255]:
+                    - generic [ref=e256]: Open Robotics
+                    - generic [ref=e257]: Open source robotics and a whole lot more!
+                - link "Metasploit World’s most used penetration testing framework" [ref=e263] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/metasploit
+                  - img [ref=e266]
+                  - generic [ref=e267]:
+                    - generic [ref=e268]: Metasploit
+                    - generic [ref=e269]: World’s most used penetration testing framework
+                - link "OpenVINO Toolkit Make AI inference faster and easier to deploy!" [ref=e275] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/openvino-toolkit
+                  - img [ref=e278]
+                  - generic [ref=e279]:
+                    - generic [ref=e280]: OpenVINO Toolkit
+                    - generic [ref=e281]: Make AI inference faster and easier to deploy!
+                - link "C2SI C2SI develops FOSS softwares for everyone!!!" [ref=e287] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/c2si
+                  - img [ref=e290]
+                  - generic [ref=e291]:
+                    - generic [ref=e292]: C2SI
+                    - generic [ref=e293]: C2SI develops FOSS softwares for everyone!!!
+                - link "Learning Equality Building equity in education to transform lives" [ref=e299] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/learning-equality
+                  - img [ref=e302]
+                  - generic [ref=e303]:
+                    - generic [ref=e304]: Learning Equality
+                    - generic [ref=e305]: Building equity in education to transform lives
+                - link "MIT App Inventor Anyone can build apps with global impact" [ref=e311] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/mit-app-inventor
+                  - img [ref=e314]
+                  - generic [ref=e315]:
+                    - generic [ref=e316]: MIT App Inventor
+                    - generic [ref=e317]: Anyone can build apps with global impact
+                - link "FOSSology Open Source License Compliance by OSS" [ref=e323] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/fossology
+                  - img [ref=e326]
+                  - generic [ref=e327]:
+                    - generic [ref=e328]: FOSSology
+                    - generic [ref=e329]: Open Source License Compliance by OSS
+                - link "Dart Dart is a client language for apps on any platform" [ref=e335] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/dart
+                  - img [ref=e338]
+                  - generic [ref=e339]:
+                    - generic [ref=e340]: Dart
+                    - generic [ref=e341]: Dart is a client language for apps on any platform
+                - link "ArduPilot World's most advanced autonomous vehicle software" [ref=e347] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/ardupilot
+                  - img [ref=e350]
+                  - generic [ref=e351]:
+                    - generic [ref=e352]: ArduPilot
+                    - generic [ref=e353]: World's most advanced autonomous vehicle software
+                - link "Joomla! The flexible platform empowering website creators." [ref=e359] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/joomla
+                  - img [ref=e362]
+                  - generic [ref=e363]:
+                    - generic [ref=e364]: Joomla!
+                    - generic [ref=e365]: The flexible platform empowering website creators.
+                - link "VideoLAN Open Source Multimedia for everyone!" [ref=e371] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/videolan
+                  - img [ref=e374]
+                  - generic [ref=e375]:
+                    - generic [ref=e376]: VideoLAN
+                    - generic [ref=e377]: Open Source Multimedia for everyone!
+                - link "Pharo Consortium Modern and immersive programming language" [ref=e383] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/pharo-consortium
+                  - img [ref=e386]
+                  - generic [ref=e387]:
+                    - generic [ref=e388]: Pharo Consortium
+                    - generic [ref=e389]: Modern and immersive programming language
+                - link "Git Fast,Scalable,Distributed revision control system" [ref=e395] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/git
+                  - img [ref=e398]
+                  - generic [ref=e399]:
+                    - generic [ref=e400]: Git
+                    - generic [ref=e401]: Fast,Scalable,Distributed revision control system
+                - link "AOSSIE Australian Umbrella Org for Open-Source Projects" [ref=e407] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/aossie
+                  - img [ref=e410]
+                  - generic [ref=e411]:
+                    - generic [ref=e412]: AOSSIE
+                    - generic [ref=e413]: Australian Umbrella Org for Open-Source Projects
+                - link "GNU Radio The free & open software radio ecosystem" [ref=e419] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/gnu-radio
+                  - img [ref=e422]
+                  - generic [ref=e423]:
+                    - generic [ref=e424]: GNU Radio
+                    - generic [ref=e425]: The free & open software radio ecosystem
+                - link "FFmpeg Record, convert and stream audio & video" [ref=e431] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/ffmpeg
+                  - img [ref=e434]
+                  - generic [ref=e435]:
+                    - generic [ref=e436]: FFmpeg
+                    - generic [ref=e437]: Record, convert and stream audio & video
+                - link "FreeCAD Cross-platform 3D parametric modeler" [ref=e443] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/freecad
+                  - img [ref=e446]
+                  - generic [ref=e447]:
+                    - generic [ref=e448]: FreeCAD
+                    - generic [ref=e449]: Cross-platform 3D parametric modeler
+                - link "stdlib The fundamental numerical library for JavaScript" [ref=e455] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/stdlib
+                  - img [ref=e458]
+                  - generic [ref=e459]:
+                    - generic [ref=e460]: stdlib
+                    - generic [ref=e461]: The fundamental numerical library for JavaScript
+                - link "Zulip Organized chat for distributed teams" [ref=e467] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/zulip
+                  - img [ref=e470]
+                  - generic [ref=e471]:
+                    - generic [ref=e472]: Zulip
+                    - generic [ref=e473]: Organized chat for distributed teams
+                - link "Internet Archive Universal Access to All Knowledge" [ref=e479] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/internet-archive
+                  - img [ref=e482]
+                  - generic [ref=e483]:
+                    - generic [ref=e484]: Internet Archive
+                    - generic [ref=e485]: Universal Access to All Knowledge
+                - link "GeomScale Scalable geometric and statistical software" [ref=e491] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/geomscale
+                  - img [ref=e494]
+                  - generic [ref=e495]:
+                    - generic [ref=e496]: GeomScale
+                    - generic [ref=e497]: Scalable geometric and statistical software
+                - link "PostgreSQL The Most Advanced Open Source Relational Database" [ref=e503] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/postgresql
+                  - img [ref=e506]
+                  - generic [ref=e507]:
+                    - generic [ref=e508]: PostgreSQL
+                    - generic [ref=e509]: The Most Advanced Open Source Relational Database
+                - link "Open Technologies Alliance - GFOSS Promote Open Standards and Open Source" [ref=e515] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/open-technologies-alliance-gfoss
+                  - img [ref=e518]
+                  - generic [ref=e519]:
+                    - generic [ref=e520]: Open Technologies Alliance - GFOSS
+                    - generic [ref=e521]: Promote Open Standards and Open Source
+                - link "RTEMS Project A real-time operating system for Earth & Space" [ref=e527] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/rtems-project
+                  - img [ref=e530]
+                  - generic [ref=e531]:
+                    - generic [ref=e532]: RTEMS Project
+                    - generic [ref=e533]: A real-time operating system for Earth & Space
+                - link "MalariaGEN The Malaria Genomic Epidemiology Network" [ref=e539] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/malariagen
+                  - img [ref=e542]
+                  - generic [ref=e543]:
+                    - generic [ref=e544]: MalariaGEN
+                    - generic [ref=e545]: The Malaria Genomic Epidemiology Network
+                - link "Joplin The secure note taking application" [ref=e551] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/joplin
+                  - img [ref=e554]
+                  - generic [ref=e555]:
+                    - generic [ref=e556]: Joplin
+                    - generic [ref=e557]: The secure note taking application
+                - link "MariaDB The fastest growing Open Source Database" [ref=e563] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/mariadb
+                  - img [ref=e566]
+                  - generic [ref=e567]:
+                    - generic [ref=e568]: MariaDB
+                    - generic [ref=e569]: The fastest growing Open Source Database
+                - link "Unikraft A Fast and Secure Unikernel SDK" [ref=e575] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/unikraft
+                  - img [ref=e578]
+                  - generic [ref=e579]:
+                    - generic [ref=e580]: Unikraft
+                    - generic [ref=e581]: A Fast and Secure Unikernel SDK
+                - link "The Linux Foundation Non-profit consortium fostering growth of Linux" [ref=e587] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/the-linux-foundation
+                  - img [ref=e590]
+                  - generic [ref=e591]:
+                    - generic [ref=e592]: The Linux Foundation
+                    - generic [ref=e593]: Non-profit consortium fostering growth of Linux
+                - link "The Julia Language A fresh approach to technical computing" [ref=e599] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/the-julia-language
+                  - img [ref=e602]
+                  - generic [ref=e603]:
+                    - generic [ref=e604]: The Julia Language
+                    - generic [ref=e605]: A fresh approach to technical computing
+                - link "CRIU Chekpoint/Restore for Linux tasks and containers" [ref=e611] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/criu
+                  - img [ref=e614]
+                  - generic [ref=e615]:
+                    - generic [ref=e616]: CRIU
+                    - generic [ref=e617]: Chekpoint/Restore for Linux tasks and containers
+                - link "CNCF Building sustainable ecosystems for cloud native" [ref=e623] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/cncf
+                  - img [ref=e626]
+                  - generic [ref=e627]:
+                    - generic [ref=e628]: CNCF
+                    - generic [ref=e629]: Building sustainable ecosystems for cloud native
+                - link "webpack webpack is the module bundler for web projects" [ref=e635] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/webpack
+                  - img [ref=e638]
+                  - generic [ref=e639]:
+                    - generic [ref=e640]: webpack
+                    - generic [ref=e641]: webpack is the module bundler for web projects
+                - link "Jitsi State-of-the-art video conferencing" [ref=e647] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/jitsi
+                  - img [ref=e650]
+                  - generic [ref=e651]:
+                    - generic [ref=e652]: Jitsi
+                    - generic [ref=e653]: State-of-the-art video conferencing
+                - link "BRL-CAD 3D CAD & other computer-aided tech (CAx)" [ref=e659] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/brl-cad
+                  - img [ref=e662]
+                  - generic [ref=e663]:
+                    - generic [ref=e664]: BRL-CAD
+                    - generic [ref=e665]: 3D CAD & other computer-aided tech (CAx)
+                - link "The OpenROAD Initiative Collaboratively building an OpenROAD ecosystem" [ref=e671] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/the-openroad-initiative
+                  - img [ref=e674]
+                  - generic [ref=e675]:
+                    - generic [ref=e676]: The OpenROAD Initiative
+                    - generic [ref=e677]: Collaboratively building an OpenROAD ecosystem
+                - link "HumanAI AI for the Arts and the Humanities" [ref=e683] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/humanai
+                  - img [ref=e686]
+                  - generic [ref=e687]:
+                    - generic [ref=e688]: HumanAI
+                    - generic [ref=e689]: AI for the Arts and the Humanities
+                - link "openSUSE Project Makers' choice for sysadmins, developers & users" [ref=e695] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/opensuse-project
+                  - img [ref=e698]
+                  - generic [ref=e699]:
+                    - generic [ref=e700]: openSUSE Project
+                    - generic [ref=e701]: Makers' choice for sysadmins, developers & users
+                - link "MetaBrainz Foundation Inc Open music / book metadata, music recommendations" [ref=e707] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/metabrainz-foundation-inc
+                  - img [ref=e710]
+                  - generic [ref=e711]:
+                    - generic [ref=e712]: MetaBrainz Foundation Inc
+                    - generic [ref=e713]: Open music / book metadata, music recommendations
+                - link "Drupal Association Build Bold Digital Experiences on Best Open Source" [ref=e719] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/drupal-association
+                  - img [ref=e722]
+                  - generic [ref=e723]:
+                    - generic [ref=e724]: Drupal Association
+                    - generic [ref=e725]: Build Bold Digital Experiences on Best Open Source
+                - link "MoFA Org Empower extraordinary with Composition AI" [ref=e731] [cursor=pointer]:
+                  - /url: /programs/2026/organizations/mofa-org
+                  - img [ref=e734]
+                  - generic [ref=e735]:
+                    - generic [ref=e736]: MoFA Org
+                    - generic [ref=e737]: Empower extraordinary with Composition AI
+              - group "Select page" [ref=e738]:
+                - generic [ref=e740]:
+                  - generic [ref=e741]:
+                    - generic [ref=e742]: "Items per page:"
+                    - combobox "50 Items per page:" [ref=e747] [cursor=pointer]:
+                      - generic [ref=e748]:
+                        - generic [ref=e750]: "50"
+                        - img [ref=e753]
+                  - generic [ref=e755]:
+                    - generic [ref=e756]: 1 – 50 of 184
+                    - button "Previous page" [disabled]:
+                      - img
+                    - button "Next page" [ref=e757] [cursor=pointer]:
+                      - img [ref=e758]
+      - contentinfo [ref=e763]:
+        - generic [ref=e765]:
+          - generic [ref=e766]:
+            - generic [ref=e768]:
+              - link "Google Summer of Code logo Google Summer of Code Home" [ref=e769] [cursor=pointer]:
+                - /url: /
+                - img "Google Summer of Code logo" [ref=e770]
+                - generic [ref=e771]: Google Summer of Code Home
+              - paragraph [ref=e772]: Introducing developers to open source software development
+            - generic [ref=e774]:
+              - list [ref=e775]:
+                - listitem [ref=e776]:
+                  - link "About" [ref=e777] [cursor=pointer]:
+                    - /url: /about
+                - listitem [ref=e778]:
+                  - link "Get started" [ref=e779] [cursor=pointer]:
+                    - /url: /get-started
+                - listitem [ref=e780]:
+                  - link "How it works" [ref=e781] [cursor=pointer]:
+                    - /url: /how-it-works
+                - listitem [ref=e782]:
+                  - link "Past programs" [ref=e783] [cursor=pointer]:
+                    - /url: /archive
+                - listitem [ref=e784]:
+                  - link "Program timeline" [ref=e785] [cursor=pointer]:
+                    - /url: https://developers.google.com/open-source/gsoc/timeline
+              - list [ref=e786]:
+                - listitem [ref=e787]:
+                  - link "2026 program" [ref=e788] [cursor=pointer]:
+                    - /url: /programs/2026
+                - listitem [ref=e789]:
+                  - link "News" [ref=e790] [cursor=pointer]:
+                    - /url: https://opensource.googleblog.com/search/label/gsoc
+                - listitem [ref=e791]:
+                  - link "Help" [ref=e792] [cursor=pointer]:
+                    - /url: /help
+                - listitem [ref=e793]:
+                  - link "GSoC YouTube" [ref=e794] [cursor=pointer]:
+                    - /url: https://www.youtube.com/c/GoogleOpenSource/playlists
+                - listitem [ref=e795]:
+                  - link "Contact" [ref=e796] [cursor=pointer]:
+                    - /url: https://developers.google.com/open-source/gsoc/contact
+          - separator [ref=e799]
+          - list [ref=e803]:
+            - listitem [ref=e804]:
+              - link "Google" [ref=e805] [cursor=pointer]:
+                - /url: https://www.google.com
+            - listitem [ref=e806]:
+              - link "Privacy" [ref=e807] [cursor=pointer]:
+                - /url: https://policies.google.com/privacy?hl=en
+            - listitem [ref=e808]:
+              - link "Rules" [ref=e809] [cursor=pointer]:
+                - /url: /rules
+            - listitem [ref=e810]:
+              - link "Terms" [ref=e811] [cursor=pointer]:
+                - /url: /terms

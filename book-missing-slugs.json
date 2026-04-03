@@ -1,0 +1,626 @@
+[
+  {
+    "name": "Debian",
+    "slug": "debian"
+  },
+  {
+    "name": "DeepChem",
+    "slug": "deepchem"
+  },
+  {
+    "name": "Django Software Foundation",
+    "slug": "django-software-foundation-8o"
+  },
+  {
+    "name": "dora-rs",
+    "slug": "dora-rs-tb"
+  },
+  {
+    "name": "Drupal Association",
+    "slug": "drupal-association"
+  },
+  {
+    "name": "Eclipse Foundation",
+    "slug": "eclipse-foundation"
+  },
+  {
+    "name": "EROFS filesystem",
+    "slug": "erofs-filesystem"
+  },
+  {
+    "name": "FFmpeg",
+    "slug": "ffmpeg"
+  },
+  {
+    "name": "FLARE",
+    "slug": "flare"
+  },
+  {
+    "name": "Fortran-lang",
+    "slug": "fortran-lang"
+  },
+  {
+    "name": "FOSSASIA",
+    "slug": "fossasia-bg"
+  },
+  {
+    "name": "FOSSology",
+    "slug": "fossology"
+  },
+  {
+    "name": "Free and Open Source Silicon Foundation",
+    "slug": "free-and-open-source-silicon-foundation"
+  },
+  {
+    "name": "FreeCAD",
+    "slug": "freecad"
+  },
+  {
+    "name": "Gambit: The package for computation in game theory",
+    "slug": "gambit-the-package-for-computation-in-game-theory"
+  },
+  {
+    "name": "Gemini CLI",
+    "slug": "gemini-cli"
+  },
+  {
+    "name": "Genome Assembly and Annotation",
+    "slug": "genome-assembly-and-annotation"
+  },
+  {
+    "name": "GeomScale",
+    "slug": "geomscale"
+  },
+  {
+    "name": "German Center for Open Source AI",
+    "slug": "german-center-for-open-source-ai"
+  },
+  {
+    "name": "Git",
+    "slug": "git"
+  },
+  {
+    "name": "Global Alliance for Genomics and Health",
+    "slug": "global-alliance-for-genomics-and-health"
+  },
+  {
+    "name": "GNOME Foundation",
+    "slug": "gnome-foundation"
+  },
+  {
+    "name": "GNU Compiler Collection (GCC)",
+    "slug": "gnu-compiler-collection-gcc"
+  },
+  {
+    "name": "GNU Image Manipulation Program",
+    "slug": "gnu-image-manipulation-program"
+  },
+  {
+    "name": "GNU Mailman",
+    "slug": "gnu-mailman"
+  },
+  {
+    "name": "GNU Octave",
+    "slug": "gnu-octave"
+  },
+  {
+    "name": "GNU Project",
+    "slug": "gnu-project-av"
+  },
+  {
+    "name": "GNU Radio",
+    "slug": "gnu-radio"
+  },
+  {
+    "name": "gprMax",
+    "slug": "gprmax"
+  },
+  {
+    "name": "GRAME",
+    "slug": "grame"
+  },
+  {
+    "name": "Graphite",
+    "slug": "graphite"
+  },
+  {
+    "name": "Haiku",
+    "slug": "haiku"
+  },
+  {
+    "name": "Haskell.org",
+    "slug": "haskellorg"
+  },
+  {
+    "name": "HumanAI",
+    "slug": "humanai"
+  },
+  {
+    "name": "INCF",
+    "slug": "incf"
+  },
+  {
+    "name": "International Catrobat Association",
+    "slug": "international-catrobat-association"
+  },
+  {
+    "name": "Internet Archive",
+    "slug": "internet-archive"
+  },
+  {
+    "name": "Invesalius",
+    "slug": "invesalius"
+  },
+  {
+    "name": "IOOS",
+    "slug": "ioos"
+  },
+  {
+    "name": "JabRef e.V.",
+    "slug": "jabref-ev"
+  },
+  {
+    "name": "JBoss Community",
+    "slug": "jboss-community"
+  },
+  {
+    "name": "JdeRobot",
+    "slug": "jderobot"
+  },
+  {
+    "name": "Jenkins",
+    "slug": "jenkins-wp"
+  },
+  {
+    "name": "Jitsi",
+    "slug": "jitsi"
+  },
+  {
+    "name": "Joomla!",
+    "slug": "joomla"
+  },
+  {
+    "name": "Joplin",
+    "slug": "joplin"
+  },
+  {
+    "name": "JSON Schema",
+    "slug": "json-schema"
+  },
+  {
+    "name": "KDE Community",
+    "slug": "kde-community"
+  },
+  {
+    "name": "Kiwix",
+    "slug": "kiwix"
+  },
+  {
+    "name": "KolibriOS Project Team",
+    "slug": "kolibrios-project-team"
+  },
+  {
+    "name": "Konflux",
+    "slug": "konflux"
+  },
+  {
+    "name": "Kornia",
+    "slug": "kornia"
+  },
+  {
+    "name": "Kotlin Foundation",
+    "slug": "kotlin-foundation"
+  },
+  {
+    "name": "Kubeflow",
+    "slug": "kubeflow"
+  },
+  {
+    "name": "KubeVirt",
+    "slug": "kubevirt"
+  },
+  {
+    "name": "LabLua",
+    "slug": "lablua"
+  },
+  {
+    "name": "Learning Equality",
+    "slug": "learning-equality"
+  },
+  {
+    "name": "Learning Unlimited",
+    "slug": "learning-unlimited"
+  },
+  {
+    "name": "LibreCube Initiative",
+    "slug": "librecube-initiative"
+  },
+  {
+    "name": "LibreHealth",
+    "slug": "librehealth"
+  },
+  {
+    "name": "LibreOffice",
+    "slug": "libreoffice"
+  },
+  {
+    "name": "libssh",
+    "slug": "libssh"
+  },
+  {
+    "name": "Liquid Galaxy project",
+    "slug": "liquid-galaxy-project"
+  },
+  {
+    "name": "LLVM Compiler Infrastructure",
+    "slug": "llvm-compiler-infrastructure"
+  },
+  {
+    "name": "Machine Learning for Science (ML4SCI)",
+    "slug": "machine-learning-for-science-ml4sci"
+  },
+  {
+    "name": "MalariaGEN",
+    "slug": "malariagen"
+  },
+  {
+    "name": "MariaDB",
+    "slug": "mariadb"
+  },
+  {
+    "name": "MDAnalysis",
+    "slug": "mdanalysis"
+  },
+  {
+    "name": "Meshery",
+    "slug": "meshery"
+  },
+  {
+    "name": "MetaBrainz Foundation Inc",
+    "slug": "metabrainz-foundation-inc"
+  },
+  {
+    "name": "MetaCall",
+    "slug": "metacall"
+  },
+  {
+    "name": "Metaflow",
+    "slug": "metaflow"
+  },
+  {
+    "name": "Metasploit",
+    "slug": "metasploit"
+  },
+  {
+    "name": "MIT App Inventor",
+    "slug": "mit-app-inventor"
+  },
+  {
+    "name": "Mixxx",
+    "slug": "mixxx"
+  },
+  {
+    "name": "MLLAM",
+    "slug": "mllam"
+  },
+  {
+    "name": "MoFA Org",
+    "slug": "mofa-org"
+  },
+  {
+    "name": "MoganLab",
+    "slug": "moganlab"
+  },
+  {
+    "name": "National Resource for Network Biology (NRNB)",
+    "slug": "national-resource-for-network-biology-nrnb"
+  },
+  {
+    "name": "Neovim",
+    "slug": "neovim"
+  },
+  {
+    "name": "Neuroinformatics Unit",
+    "slug": "neuroinformatics-unit"
+  },
+  {
+    "name": "Neutralinojs",
+    "slug": "neutralinojs"
+  },
+  {
+    "name": "NixOS Foundation",
+    "slug": "nixos-foundation"
+  },
+  {
+    "name": "NumFOCUS",
+    "slug": "numfocus"
+  },
+  {
+    "name": "omegaUp",
+    "slug": "omegaup"
+  },
+  {
+    "name": "Open Food Facts",
+    "slug": "open-food-facts"
+  },
+  {
+    "name": "Open Genome Informatics",
+    "slug": "open-genome-informatics"
+  },
+  {
+    "name": "Open HealthCare Network",
+    "slug": "open-healthcare-network"
+  },
+  {
+    "name": "Open Robotics",
+    "slug": "open-robotics"
+  },
+  {
+    "name": "Open Science Initiative for Perfusion Imaging",
+    "slug": "open-science-initiative-for-perfusion-imaging"
+  },
+  {
+    "name": "Open Science Labs",
+    "slug": "open-science-labs"
+  },
+  {
+    "name": "Open Technologies Alliance - GFOSS",
+    "slug": "open-technologies-alliance-gfoss"
+  },
+  {
+    "name": "Open Transit Software Foundation",
+    "slug": "open-transit-software-foundation"
+  },
+  {
+    "name": "OpenAFS",
+    "slug": "openafs"
+  },
+  {
+    "name": "OpenAstronomy",
+    "slug": "openastronomy"
+  },
+  {
+    "name": "OpenELIS Global",
+    "slug": "openelis-global"
+  },
+  {
+    "name": "OpenMRS",
+    "slug": "openmrs"
+  },
+  {
+    "name": "OpenMS Inc",
+    "slug": "openms-inc"
+  },
+  {
+    "name": "OpenStreetMap",
+    "slug": "openstreetmap"
+  },
+  {
+    "name": "openSUSE Project",
+    "slug": "opensuse-project"
+  },
+  {
+    "name": "OpenVINO Toolkit",
+    "slug": "openvino-toolkit"
+  },
+  {
+    "name": "OpenWISP",
+    "slug": "openwisp"
+  },
+  {
+    "name": "Oppia Foundation",
+    "slug": "oppia-foundation"
+  },
+  {
+    "name": "OSGeo (Open Source Geospatial Foundation)",
+    "slug": "osgeo-open-source-geospatial-foundation"
+  },
+  {
+    "name": "OWASP Foundation",
+    "slug": "owasp-foundation"
+  },
+  {
+    "name": "PEcAn Project",
+    "slug": "pecan-project"
+  },
+  {
+    "name": "Pharo Consortium",
+    "slug": "pharo-consortium"
+  },
+  {
+    "name": "PostgreSQL",
+    "slug": "postgresql"
+  },
+  {
+    "name": "preCICE",
+    "slug": "precice"
+  },
+  {
+    "name": "Processing Foundation",
+    "slug": "processing-foundation"
+  },
+  {
+    "name": "Project Mesa",
+    "slug": "project-mesa"
+  },
+  {
+    "name": "Python Software Foundation",
+    "slug": "python-software-foundation"
+  },
+  {
+    "name": "QC-Devs",
+    "slug": "qc-devs"
+  },
+  {
+    "name": "QEMU",
+    "slug": "qemu"
+  },
+  {
+    "name": "Qubes OS",
+    "slug": "qubes-os-f3"
+  },
+  {
+    "name": "R project for statistical computing",
+    "slug": "r-project-for-statistical-computing"
+  },
+  {
+    "name": "Rizin",
+    "slug": "rizin"
+  },
+  {
+    "name": "rocket.chat",
+    "slug": "rocketchat"
+  },
+  {
+    "name": "RTEMS Project",
+    "slug": "rtems-project"
+  },
+  {
+    "name": "Ruby",
+    "slug": "ruby"
+  },
+  {
+    "name": "SageMath",
+    "slug": "sagemath"
+  },
+  {
+    "name": "ScummVM",
+    "slug": "scummvm"
+  },
+  {
+    "name": "St. Jude Children's Research Hospital",
+    "slug": "st-jude-childrens-research-hospital-ai"
+  },
+  {
+    "name": "stdlib",
+    "slug": "stdlib"
+  },
+  {
+    "name": "Ste||ar group",
+    "slug": "stear-group"
+  },
+  {
+    "name": "Stichting SU2",
+    "slug": "stichting-su2"
+  },
+  {
+    "name": "Submitty",
+    "slug": "submitty"
+  },
+  {
+    "name": "Sugar Labs",
+    "slug": "sugar-labs"
+  },
+  {
+    "name": "SW360",
+    "slug": "sw360"
+  },
+  {
+    "name": "Swift",
+    "slug": "swift"
+  },
+  {
+    "name": "SymPy",
+    "slug": "sympy"
+  },
+  {
+    "name": "Synfig",
+    "slug": "synfig"
+  },
+  {
+    "name": "TARDIS RT Collaboration",
+    "slug": "tardis-rt-collaboration"
+  },
+  {
+    "name": "The FreeBSD Project",
+    "slug": "the-freebsd-project"
+  },
+  {
+    "name": "The Honeynet Project",
+    "slug": "the-honeynet-project"
+  },
+  {
+    "name": "The JPF team",
+    "slug": "the-jpf-team-hg"
+  },
+  {
+    "name": "The Julia Language",
+    "slug": "the-julia-language"
+  },
+  {
+    "name": "The Libreswan Project",
+    "slug": "the-libreswan-project"
+  },
+  {
+    "name": "The Linux Foundation",
+    "slug": "the-linux-foundation"
+  },
+  {
+    "name": "The Mifos Initiative",
+    "slug": "the-mifos-initiative"
+  },
+  {
+    "name": "The NetBSD Foundation",
+    "slug": "the-netbsd-foundation"
+  },
+  {
+    "name": "The ns-3 Network Simulator Project",
+    "slug": "the-ns-3-network-simulator-project"
+  },
+  {
+    "name": "The OpenROAD Initiative",
+    "slug": "the-openroad-initiative"
+  },
+  {
+    "name": "The P4 Language Consortium",
+    "slug": "the-p4-language-consortium"
+  },
+  {
+    "name": "The Rust Foundation",
+    "slug": "the-rust-foundation"
+  },
+  {
+    "name": "Tiled",
+    "slug": "tiled"
+  },
+  {
+    "name": "Typelevel",
+    "slug": "typelevel"
+  },
+  {
+    "name": "UC OSPO",
+    "slug": "uc-ospo"
+  },
+  {
+    "name": "Unikraft",
+    "slug": "unikraft"
+  },
+  {
+    "name": "United Nations Office of Information Communication Technology",
+    "slug": "united-nations-office-of-information-communication-technology"
+  },
+  {
+    "name": "Uramaki LAB",
+    "slug": "uramaki-lab"
+  },
+  {
+    "name": "VideoLAN",
+    "slug": "videolan"
+  },
+  {
+    "name": "Wagtail",
+    "slug": "wagtail"
+  },
+  {
+    "name": "webpack",
+    "slug": "webpack"
+  },
+  {
+    "name": "Wikimedia Foundation",
+    "slug": "wikimedia-foundation-nd"
+  },
+  {
+    "name": "Zulip",
+    "slug": "zulip"
+  }
+]

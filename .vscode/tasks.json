@@ -1,0 +1,89 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Build Book HTML",
+			"type": "shell",
+			"command": "pwsh",
+			"args": [
+				"-NoProfile",
+				"-ExecutionPolicy",
+				"Bypass",
+				"-File",
+				"scripts/convert-book.ps1",
+				"-Formats",
+				"html",
+				"-Clean"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"problemMatcher": []
+		},
+		{
+			"label": "Build Book EPUB",
+			"type": "shell",
+			"command": "pwsh",
+			"args": [
+				"-NoProfile",
+				"-ExecutionPolicy",
+				"Bypass",
+				"-File",
+				"scripts/convert-book.ps1",
+				"-Formats",
+				"epub",
+				"-Clean"
+			],
+			"problemMatcher": []
+		},
+		{
+			"label": "Build Book DOCX",
+			"type": "shell",
+			"command": "pwsh",
+			"args": [
+				"-NoProfile",
+				"-ExecutionPolicy",
+				"Bypass",
+				"-File",
+				"scripts/convert-book.ps1",
+				"-Formats",
+				"docx",
+				"-Clean"
+			],
+			"problemMatcher": []
+		},
+		{
+			"label": "Build Book EPUB+DOCX",
+			"type": "shell",
+			"command": "pwsh",
+			"args": [
+				"-NoProfile",
+				"-ExecutionPolicy",
+				"Bypass",
+				"-File",
+				"scripts/convert-book.ps1",
+				"-Formats",
+				"epub,docx",
+				"-Clean"
+			],
+			"problemMatcher": []
+		},
+		{
+			"label": "Build Book All",
+			"type": "shell",
+			"command": "pwsh",
+			"args": [
+				"-NoProfile",
+				"-ExecutionPolicy",
+				"Bypass",
+				"-File",
+				"scripts/convert-book.ps1",
+				"-Formats",
+				"html,epub,docx",
+				"-Clean"
+			],
+			"problemMatcher": []
+		}
+	]
+}

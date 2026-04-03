@@ -1,0 +1,7 @@
+- region "This site uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic." [ref=e2]:
+  - generic [ref=e3]:
+    - text: This site uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic.
+    - generic [ref=e4]:
+      - link "Learn more" [ref=e5] [cursor=pointer]:
+        - /url: https://policies.google.com/technologies/cookies?hl=en
+      - button "OK, got it" [ref=e6] [cursor=pointer]
