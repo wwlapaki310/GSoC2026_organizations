@@ -1,9 +1,37 @@
 ---
-title: "世の中の Open Source Software を把握しよう！ Google Summer of Code 2026 の参加機関を解説"
+title: "世の中の Open Source Software を把握しよう！ Google Summer of Code 2026 の参加機関184個をざっと解説"
 lang: ja-JP
+cover-image: "img/hyoushi.jpg"
 ---
 
-## はじめに
+![表紙](../img/hyoushi.jpg){.cover-image}
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+**世の中の Open Source Software を把握しよう！ Google Summer of Code 2026 の参加機関184個をざっと解説**
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# 目次
+
+- [はじめに](#はじめに)
+  - [本書の読み方](#本書の読み方)
+  - [注記](#注記)
+- [機関一覧](#機関一覧)
+- [本編（機関説明）](#本編機関説明)
+  - [0-9](#0-9)
+  - [A](#a) / [B](#b) / [C](#c) / [D](#d) / [E](#e) / [F](#f) / [G](#g) / [H](#h) / [I](#i) / [J](#j) / [K](#k) / [L](#l) / [M](#m) / [N](#n) / [O](#o) / [P](#p) / [Q](#q) / [R](#r) / [S](#s) / [T](#t) / [U](#u) / [V](#v) / [W](#w) / [Z](#z)
+- [おわりに](#おわりに)
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# はじめに
 
 本書は Google Summer of Code 2026 の参加機関をアルファベット順にたどりながら、世の中のオープンソースコミュニティの広がりを日本語で把握するためのガイドです。
 
@@ -23,17 +51,274 @@ lang: ja-JP
 
 - 調査時点で確認できなかった項目は `不明` と記載しています
 
-## 本編
+# 機関一覧
 
-## アルファベット索引
+## 0-9
 
-[0-9](#numbers) | [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Z](#z)
+- 52°North Spatial Information Research GmbH
+
+## A
+
+- AboutCode
+- Accord Project
+- AFLplusplus
+- Alaska
+- AnkiDroid
+- AOSSIE
+- Apache Software Foundation
+- API Dash
+- ArduPilot
+
+## B
+
+- Blender Foundation
+- Boa
+- BRL-CAD
+
+## C
+
+- C2SI
+- cBioPortal for Cancer Genomics
+- CCExtractor Development
+- Ceph
+- CERN-HSF
+- CGAL Project
+- checkstyle
+- CircuitVerse.org
+- CNCF
+- CRIU
+- Cuneiform Digital Library Initiative (CDLI)
+
+## D
+
+- D Language Foundation
+- Dart
+- Data for the Common Good
+- DBpedia
+- Debian
+- DeepChem
+- Django Software Foundation
+- dora-rs
+- Drupal Association
+
+## E
+
+- Eclipse Foundation
+- EROFS filesystem
+
+## F
+
+- FFmpeg
+- FLARE
+- Fortran-lang
+- FOSSASIA
+- FOSSology
+- Free and Open Source Silicon Foundation
+- FreeCAD
+
+## G
+
+- Gambit: The package for computation in game theory
+- Gemini CLI
+- Genome Assembly and Annotation
+- GeomScale
+- German Center for Open Source AI
+- Git
+- Global Alliance for Genomics and Health
+- GNOME Foundation
+- GNU Compiler Collection (GCC)
+- GNU Image Manipulation Program
+- GNU Mailman
+- GNU Octave
+- GNU Project
+- GNU Radio
+- gprMax
+- GRAME
+- Graphite
+
+## H
+
+- Haiku
+- Haskell.org
+- HumanAI
+
+## I
+
+- INCF
+- International Catrobat Association
+- Internet Archive
+- Invesalius
+- IOOS
+
+## J
+
+- JabRef e.V
+- JBoss Community
+- JdeRobot
+- Jenkins
+- Jitsi
+- Joomla
+- Joplin
+- JSON Schema
+
+## K
+
+- KDE Community
+- Kiwix
+- KolibriOS Project Team
+- Konflux
+- Kornia
+- Kotlin Foundation
+- Kubeflow
+- KubeVirt
+
+## L
+
+- LabLua
+- Learning Equality
+- Learning Unlimited
+- LibreCube Initiative
+- LibreHealth
+- LibreOffice
+- libssh
+- Liquid Galaxy project
+- LLVM Compiler Infrastructure
+
+## M
+
+- Machine Learning for Science (ML4SCI)
+- MalariaGEN
+- MariaDB
+- MDAnalysis
+- Meshery
+- MetaBrainz Foundation Inc
+- MetaCall
+- Metaflow
+- Metasploit
+- MIT App Inventor
+- Mixxx
+- MLLAM
+- MoFA Org
+- MoganLab
+
+## N
+
+- National Resource for Network Biology (NRNB)
+- Neovim
+- Neuroinformatics Unit
+- Neutralinojs
+- NixOS Foundation
+- NumFOCUS
+
+## O
+
+- omegaUp
+- Open Food Facts
+- Open Genome Informatics
+- Open HealthCare Network
+- Open Robotics
+- Open Science Initiative for Perfusion Imaging
+- Open Science Labs
+- Open Technologies Alliance - GFOSS
+- Open Transit Software Foundation
+- OpenAFS
+- OpenAstronomy
+- OpenELIS Global
+- OpenMRS
+- OpenMS Inc
+- OpenStreetMap
+- openSUSE Project
+- OpenVINO Toolkit
+- OpenWISP
+- Oppia Foundation
+- OSGeo (Open Source Geospatial Foundation)
+- OWASP Foundation
+
+## P
+
+- PEcAn Project
+- Pharo Consortium
+- PostgreSQL
+- preCICE
+- Processing Foundation
+- Project Mesa
+- Python Software Foundation
+
+## Q
+
+- QC-Devs
+- QEMU
+- Qubes OS
+
+## R
+
+- R project for statistical computing
+- Rizin
+- rocket.chat
+- RTEMS Project
+- Ruby
+
+## S
+
+- SageMath
+- ScummVM
+- St. Jude Children's Research Hospital
+- stdlib
+- STE||AR Group
+- Stichting SU2
+- Submitty
+- Sugar Labs
+- SW360
+- Swift
+- SymPy
+- Synfig
+
+## T
+
+- TARDIS RT Collaboration
+- The FreeBSD Project
+- The Honeynet Project
+- The JPF team
+- The Julia Language
+- The Libreswan Project
+- The Linux Foundation
+- The Mifos Initiative
+- The NetBSD Foundation
+- The ns-3 Network Simulator Project
+- The OpenROAD Initiative
+- The P4 Language Consortium
+- The Rust Foundation
+- Tiled
+- Typelevel
+
+## U
+
+- UC OSPO
+- Unikraft
+- United Nations Office of Information Communication Technology
+- Uramaki LAB
+
+## V
+
+- VideoLAN
+
+## W
+
+- Wagtail
+- webpack
+- Wikimedia Foundation
+
+## Z
+
+- Zulip
+
+# 本編（機関説明）
 
 ## 0-9 {#numbers}
 
 ### 52°North Spatial Information Research GmbH
 
-![52°North Spatial Information Research GmbH icon](https://avatars.githubusercontent.com/u/3714494?s=200&v=4){.org-icon}
+![](https://avatars.githubusercontent.com/u/3714494?s=200&v=4){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -49,7 +334,7 @@ lang: ja-JP
 
 ### AboutCode
 
-![AboutCode icon](https://avatars.githubusercontent.com/u/95001295?s=200&v=4){.org-icon}
+![](https://avatars.githubusercontent.com/u/95001295?s=200&v=4){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -63,7 +348,7 @@ lang: ja-JP
 
 ### Accord Project
 
-![Accord Project icon](https://avatars.githubusercontent.com/u/29445438?s=200&v=4){.org-icon}
+![](https://avatars.githubusercontent.com/u/29445438?s=200&v=4){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -77,7 +362,7 @@ lang: ja-JP
 
 ### AFLplusplus
 
-![AFLplusplus icon](https://avatars.githubusercontent.com/u/62360046?s=200&v=4){.org-icon}
+![](https://avatars.githubusercontent.com/u/62360046?s=200&v=4){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -91,7 +376,7 @@ lang: ja-JP
 
 ### Alaska
 
-![Alaska icon](https://raw.githubusercontent.com/uaanchorage/GSoC/main/figures/Alaska.png){.org-icon}
+![](https://raw.githubusercontent.com/uaanchorage/GSoC/main/figures/Alaska.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -105,7 +390,7 @@ lang: ja-JP
 
 ### AnkiDroid
 
-![AnkiDroid icon](https://avatars.githubusercontent.com/u/3320903?s=200&v=4){.org-icon}
+![](https://avatars.githubusercontent.com/u/3320903?s=200&v=4){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -119,7 +404,7 @@ lang: ja-JP
 
 ### AOSSIE
 
-![AOSSIE icon](https://avatars.githubusercontent.com/u/38881995?s=200&v=4){.org-icon}
+![](https://avatars.githubusercontent.com/u/38881995?s=200&v=4){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -133,7 +418,7 @@ lang: ja-JP
 
 ### Apache Software Foundation
 
-![Apache Software Foundation icon](https://avatars.githubusercontent.com/u/47359?s=200&v=4){.org-icon}
+![](https://avatars.githubusercontent.com/u/47359?s=200&v=4){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -147,7 +432,7 @@ lang: ja-JP
 
 ### API Dash
 
-![API Dash icon](https://raw.githubusercontent.com/foss42/apidash/main/screenshots/apidash.png){.org-icon}
+![](https://raw.githubusercontent.com/foss42/apidash/main/screenshots/apidash.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -161,7 +446,7 @@ lang: ja-JP
 
 ### ArduPilot
 
-![ArduPilot icon](https://avatars.githubusercontent.com/u/17919847?s=200&v=4){.org-icon}
+![](https://avatars.githubusercontent.com/u/17919847?s=200&v=4){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -177,7 +462,7 @@ lang: ja-JP
 
 ### Blender Foundation
 
-![Blender Foundation icon](https://avatars.githubusercontent.com/u/52924476?s=200&v=4){.org-icon}
+![](https://avatars.githubusercontent.com/u/52924476?s=200&v=4){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub mirror
 
@@ -191,7 +476,7 @@ lang: ja-JP
 
 ### Boa
 
-![Boa icon](https://summerofcode.withgoogle.com/media/org/boa/vhimc4zkw6j9t8wm-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/boa/vhimc4zkw6j9t8wm-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -205,7 +490,7 @@ lang: ja-JP
 
 ### BRL-CAD
 
-![BRL-CAD icon](https://avatars.githubusercontent.com/u/1022266?s=200&v=4){.org-icon}
+![](https://avatars.githubusercontent.com/u/1022266?s=200&v=4){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -221,7 +506,7 @@ lang: ja-JP
 
 ### C2SI
 
-![C2SI icon](https://avatars.githubusercontent.com/u/125566529?v=4){.org-icon}
+![](https://avatars.githubusercontent.com/u/125566529?v=4){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub profile only
 
@@ -237,7 +522,7 @@ lang: ja-JP
 
 ### cBioPortal for Cancer Genomics
 
-![cBioPortal for Cancer Genomics icon](https://avatars.githubusercontent.com/u/9876251?s=200&v=4){.org-icon}
+![](https://avatars.githubusercontent.com/u/9876251?s=200&v=4){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -251,7 +536,7 @@ lang: ja-JP
 
 ### CCExtractor Development
 
-![CCExtractor Development icon](https://avatars.githubusercontent.com/u/7253637?s=200&v=4){.org-icon}
+![](https://avatars.githubusercontent.com/u/7253637?s=200&v=4){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -265,7 +550,7 @@ lang: ja-JP
 
 ### Ceph
 
-![Ceph icon](https://avatars.githubusercontent.com/u/1015767?s=200&v=4){.org-icon}
+![](https://avatars.githubusercontent.com/u/1015767?s=200&v=4){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -279,7 +564,7 @@ lang: ja-JP
 
 ### CERN-HSF
 
-![CERN-HSF icon](https://avatars.githubusercontent.com/u/11518194?s=200&v=4){.org-icon}
+![](https://avatars.githubusercontent.com/u/11518194?s=200&v=4){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -293,7 +578,7 @@ lang: ja-JP
 
 ### CGAL Project
 
-![CGAL Project icon](https://avatars.githubusercontent.com/u/5746664?s=200&v=4){.org-icon}
+![](https://avatars.githubusercontent.com/u/5746664?s=200&v=4){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -307,7 +592,7 @@ lang: ja-JP
 
 ### checkstyle
 
-![checkstyle icon](https://avatars.githubusercontent.com/u/5179750?s=200&v=4){.org-icon}
+![](https://avatars.githubusercontent.com/u/5179750?s=200&v=4){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -321,7 +606,7 @@ lang: ja-JP
 
 ### CircuitVerse.org
 
-![CircuitVerse.org icon](https://avatars.githubusercontent.com/u/42944450?s=200&v=4){.org-icon}
+![](https://avatars.githubusercontent.com/u/42944450?s=200&v=4){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -335,7 +620,7 @@ lang: ja-JP
 
 ### CNCF
 
-![CNCF icon](https://avatars.githubusercontent.com/u/13455738?s=200&v=4){.org-icon}
+![](https://avatars.githubusercontent.com/u/13455738?s=200&v=4){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -349,7 +634,7 @@ lang: ja-JP
 
 ### CRIU
 
-![CRIU icon](https://avatars.githubusercontent.com/u/32352560?s=200&v=4){.org-icon}
+![](https://avatars.githubusercontent.com/u/32352560?s=200&v=4){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -363,7 +648,7 @@ lang: ja-JP
 
 ### Cuneiform Digital Library Initiative (CDLI)
 
-![Cuneiform Digital Library Initiative (CDLI) icon](https://avatars.githubusercontent.com/u/16110157?s=200&v=4){.org-icon}
+![](https://avatars.githubusercontent.com/u/16110157?s=200&v=4){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub and GitLab
 
@@ -379,7 +664,7 @@ lang: ja-JP
 
 ### D Language Foundation
 
-![D Language Foundation icon](https://avatars.githubusercontent.com/u/565913?s=200&v=4){.org-icon}
+![](https://avatars.githubusercontent.com/u/565913?s=200&v=4){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -393,7 +678,7 @@ lang: ja-JP
 
 ### Dart
 
-![Dart icon](https://avatars.githubusercontent.com/u/1609975?s=200&v=4){.org-icon}
+![](https://avatars.githubusercontent.com/u/1609975?s=200&v=4){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -407,7 +692,7 @@ lang: ja-JP
 
 ### Data for the Common Good
 
-![Data for the Common Good icon](https://avatars.githubusercontent.com/u/52762938?s=200&v=4){.org-icon}
+![](https://avatars.githubusercontent.com/u/52762938?s=200&v=4){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -421,7 +706,7 @@ lang: ja-JP
 
 ### DBpedia
 
-![DBpedia icon](https://avatars.githubusercontent.com/u/2864602?s=200&v=4){.org-icon}
+![](https://avatars.githubusercontent.com/u/2864602?s=200&v=4){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -435,7 +720,7 @@ lang: ja-JP
 
 ### Debian
 
-![Debian icon](https://summerofcode.withgoogle.com/media/org/debian/mmld9soj4mti8bjn-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/debian/mmld9soj4mti8bjn-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: Salsa
 
@@ -449,7 +734,7 @@ lang: ja-JP
 
 ### DeepChem
 
-![DeepChem icon](https://summerofcode.withgoogle.com/media/org/deepchem/ffdofoxp3ba1qqmh-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/deepchem/ffdofoxp3ba1qqmh-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -463,7 +748,7 @@ lang: ja-JP
 
 ### Django Software Foundation
 
-![Django Software Foundation icon](https://summerofcode.withgoogle.com/media/org/django-software-foundation-8o/685unxpkksrvfugu-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/django-software-foundation-8o/685unxpkksrvfugu-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -477,7 +762,7 @@ lang: ja-JP
 
 ### dora-rs
 
-![dora-rs icon](https://summerofcode.withgoogle.com/media/org/dora-rs-tb/u8emntrmqq6vgcih-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/dora-rs-tb/u8emntrmqq6vgcih-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -491,7 +776,7 @@ lang: ja-JP
 
 ### Drupal Association
 
-![Drupal Association icon](https://summerofcode.withgoogle.com/media/org/drupal-association/kfbn4ws0uftixkho-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/drupal-association/kfbn4ws0uftixkho-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: Git
 
@@ -507,7 +792,7 @@ lang: ja-JP
 
 ### Eclipse Foundation
 
-![Eclipse Foundation icon](https://summerofcode.withgoogle.com/media/org/eclipse-foundation/xo1ntao7atq7yjg2-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/eclipse-foundation/xo1ntao7atq7yjg2-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -521,7 +806,7 @@ lang: ja-JP
 
 ### EROFS filesystem
 
-![EROFS filesystem icon](https://summerofcode.withgoogle.com/media/org/erofs-filesystem/qrkpvwkzjqmwoyau-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/erofs-filesystem/qrkpvwkzjqmwoyau-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: Git
 
@@ -537,7 +822,7 @@ lang: ja-JP
 
 ### FFmpeg
 
-![FFmpeg icon](https://summerofcode.withgoogle.com/media/org/ffmpeg/9nltyc13lvn7dqn0-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/ffmpeg/9nltyc13lvn7dqn0-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: Git
 
@@ -551,7 +836,7 @@ lang: ja-JP
 
 ### FLARE
 
-![FLARE icon](https://summerofcode.withgoogle.com/media/org/flare/6so0wjs76qeewe9v-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/flare/6so0wjs76qeewe9v-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -565,7 +850,7 @@ lang: ja-JP
 
 ### Fortran-lang
 
-![Fortran-lang icon](https://summerofcode.withgoogle.com/media/org/fortran-lang/ay9se7mc6vgdwgbn-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/fortran-lang/ay9se7mc6vgdwgbn-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -579,7 +864,7 @@ lang: ja-JP
 
 ### FOSSASIA
 
-![FOSSASIA icon](https://summerofcode.withgoogle.com/media/org/fossasia-bg/rquaoyo4v86xj21l-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/fossasia-bg/rquaoyo4v86xj21l-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -593,7 +878,7 @@ lang: ja-JP
 
 ### FOSSology
 
-![FOSSology icon](https://summerofcode.withgoogle.com/media/org/fossology/bqfblnvpsqnfg5bh-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/fossology/bqfblnvpsqnfg5bh-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -607,7 +892,7 @@ lang: ja-JP
 
 ### Free and Open Source Silicon Foundation
 
-![Free and Open Source Silicon Foundation icon](https://summerofcode.withgoogle.com/media/org/free-and-open-source-silicon-foundation/aie951otsp3xucok.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/free-and-open-source-silicon-foundation/aie951otsp3xucok.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -621,7 +906,7 @@ lang: ja-JP
 
 ### FreeCAD
 
-![FreeCAD icon](https://summerofcode.withgoogle.com/media/org/freecad/hka287elz3d4wvzu.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/freecad/hka287elz3d4wvzu.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -637,7 +922,7 @@ lang: ja-JP
 
 ### Gambit: The package for computation in game theory
 
-![Gambit: The package for computation in game theory icon](https://summerofcode.withgoogle.com/media/org/gambit-the-package-for-computation-in-game-theory/09u5sma4pizmwbqt-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/gambit-the-package-for-computation-in-game-theory/09u5sma4pizmwbqt-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -651,7 +936,7 @@ lang: ja-JP
 
 ### Gemini CLI
 
-![Gemini CLI icon](https://summerofcode.withgoogle.com/media/org/gemini-cli/mhi8cx7tyjt91i6n-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/gemini-cli/mhi8cx7tyjt91i6n-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -665,7 +950,7 @@ lang: ja-JP
 
 ### Genome Assembly and Annotation
 
-![Genome Assembly and Annotation icon](https://summerofcode.withgoogle.com/media/org/genome-assembly-and-annotation/ixuasrqx18soo7ml-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/genome-assembly-and-annotation/ixuasrqx18soo7ml-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -679,7 +964,7 @@ lang: ja-JP
 
 ### GeomScale
 
-![GeomScale icon](https://summerofcode.withgoogle.com/media/org/geomscale/ongpste986nd7t6p-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/geomscale/ongpste986nd7t6p-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -693,7 +978,7 @@ lang: ja-JP
 
 ### German Center for Open Source AI
 
-![German Center for Open Source AI icon](https://summerofcode.withgoogle.com/media/org/german-center-for-open-source-ai/mir4i7v7wopcc7wn-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/german-center-for-open-source-ai/mir4i7v7wopcc7wn-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -707,7 +992,7 @@ lang: ja-JP
 
 ### Git
 
-![Git icon](https://summerofcode.withgoogle.com/media/org/git/mbqqznjbaohwgq80-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/git/mbqqznjbaohwgq80-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -721,7 +1006,7 @@ lang: ja-JP
 
 ### Global Alliance for Genomics and Health
 
-![Global Alliance for Genomics and Health icon](https://summerofcode.withgoogle.com/media/org/global-alliance-for-genomics-and-health/0bnlmihuhff098xd-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/global-alliance-for-genomics-and-health/0bnlmihuhff098xd-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -735,7 +1020,7 @@ lang: ja-JP
 
 ### GNOME Foundation
 
-![GNOME Foundation icon](https://summerofcode.withgoogle.com/media/org/gnome-foundation/aqwqx1x6ozjnxsak-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/gnome-foundation/aqwqx1x6ozjnxsak-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: Project website
 
@@ -749,7 +1034,7 @@ lang: ja-JP
 
 ### GNU Compiler Collection (GCC)
 
-![GNU Compiler Collection (GCC) icon](https://summerofcode.withgoogle.com/media/org/gnu-compiler-collection-gcc/kpspl59nyj0hoxlr-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/gnu-compiler-collection-gcc/kpspl59nyj0hoxlr-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: Git
 
@@ -763,7 +1048,7 @@ lang: ja-JP
 
 ### GNU Image Manipulation Program
 
-![GNU Image Manipulation Program icon](https://summerofcode.withgoogle.com/media/org/gnu-image-manipulation-program/ocldunfrxwufuvdf.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/gnu-image-manipulation-program/ocldunfrxwufuvdf.png){.org-icon width=3.0cm}
 
 - コードホスティング: Project website
 
@@ -777,7 +1062,7 @@ lang: ja-JP
 
 ### GNU Mailman
 
-![GNU Mailman icon](https://summerofcode.withgoogle.com/media/org/gnu-mailman/cg5sxkouo8rjtjw2-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/gnu-mailman/cg5sxkouo8rjtjw2-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitLab
 
@@ -791,7 +1076,7 @@ lang: ja-JP
 
 ### GNU Octave
 
-![GNU Octave icon](https://summerofcode.withgoogle.com/media/org/gnu-octave/0kc85jo6rl3eo2g0-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/gnu-octave/0kc85jo6rl3eo2g0-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: Project website
 
@@ -805,7 +1090,7 @@ lang: ja-JP
 
 ### GNU Project
 
-![GNU Project icon](https://summerofcode.withgoogle.com/media/org/gnu-project-av/aht1h1aunalkojoq-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/gnu-project-av/aht1h1aunalkojoq-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: Project website
 
@@ -819,7 +1104,7 @@ lang: ja-JP
 
 ### GNU Radio
 
-![GNU Radio icon](https://summerofcode.withgoogle.com/media/org/gnu-radio/v1g5y6exzlwgfulv-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/gnu-radio/v1g5y6exzlwgfulv-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -833,7 +1118,7 @@ lang: ja-JP
 
 ### gprMax
 
-![gprMax icon](https://summerofcode.withgoogle.com/media/org/gprmax/vm8kavyxz3csja8f-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/gprmax/vm8kavyxz3csja8f-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -847,7 +1132,7 @@ lang: ja-JP
 
 ### GRAME
 
-![GRAME icon](https://summerofcode.withgoogle.com/media/org/grame/joff5sziiuapvits-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/grame/joff5sziiuapvits-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -861,7 +1146,7 @@ lang: ja-JP
 
 ### Graphite
 
-![Graphite icon](https://summerofcode.withgoogle.com/media/org/graphite-labs/p5x1ehnbihaxxqoq-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/graphite-labs/p5x1ehnbihaxxqoq-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -877,7 +1162,7 @@ lang: ja-JP
 
 ### Haiku
 
-![Haiku icon](https://summerofcode.withgoogle.com/media/org/haiku/lnrgd3agfl2kogbo-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/haiku/lnrgd3agfl2kogbo-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: Project website
 
@@ -891,7 +1176,7 @@ lang: ja-JP
 
 ### Haskell.org
 
-![Haskell.org icon](https://summerofcode.withgoogle.com/media/org/haskellorg/ivy7hfguqhoz8onp-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/haskellorg/ivy7hfguqhoz8onp-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -905,7 +1190,7 @@ lang: ja-JP
 
 ### HumanAI
 
-![HumanAI icon](https://summerofcode.withgoogle.com/media/org/humanai/n5oaqivpu4hu4alm-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/humanai/n5oaqivpu4hu4alm-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -921,7 +1206,7 @@ lang: ja-JP
 
 ### INCF
 
-![INCF icon](https://summerofcode.withgoogle.com/media/org/incf/gnryoa8kunjogh9a-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/incf/gnryoa8kunjogh9a-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -935,7 +1220,7 @@ lang: ja-JP
 
 ### International Catrobat Association
 
-![International Catrobat Association icon](https://summerofcode.withgoogle.com/media/org/international-catrobat-association/dfkxzmsqlkyvwi2o-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/international-catrobat-association/dfkxzmsqlkyvwi2o-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -949,7 +1234,7 @@ lang: ja-JP
 
 ### Internet Archive
 
-![Internet Archive icon](https://summerofcode.withgoogle.com/media/org/internet-archive/uzbgzbb9tvp81c2i.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/internet-archive/uzbgzbb9tvp81c2i.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -963,7 +1248,7 @@ lang: ja-JP
 
 ### Invesalius
 
-![Invesalius icon](https://summerofcode.withgoogle.com/media/org/invesalius/ktlk8dmldhfmlyb2-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/invesalius/ktlk8dmldhfmlyb2-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -977,7 +1262,7 @@ lang: ja-JP
 
 ### IOOS
 
-![IOOS icon](https://summerofcode.withgoogle.com/media/org/ioos/oe7caipkhwnizoyr-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/ioos/oe7caipkhwnizoyr-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -993,7 +1278,7 @@ lang: ja-JP
 
 ### JabRef e.V
 
-![JabRef e.V icon](https://summerofcode.withgoogle.com/media/org/jabref-ev/ylevworrwqf9bw9g-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/jabref-ev/ylevworrwqf9bw9g-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1007,7 +1292,7 @@ lang: ja-JP
 
 ### JBoss Community
 
-![JBoss Community icon](https://summerofcode.withgoogle.com/media/org/jboss-community/vno1fifehc0i6aa6-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/jboss-community/vno1fifehc0i6aa6-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1021,7 +1306,7 @@ lang: ja-JP
 
 ### JdeRobot
 
-![JdeRobot icon](https://summerofcode.withgoogle.com/media/org/jderobot/xwu8zkcagffmlqdj-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/jderobot/xwu8zkcagffmlqdj-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1035,7 +1320,7 @@ lang: ja-JP
 
 ### Jenkins
 
-![Jenkins icon](https://summerofcode.withgoogle.com/media/org/jenkins-wp/7qlgfron9nyj194y-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/jenkins-wp/7qlgfron9nyj194y-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1049,7 +1334,7 @@ lang: ja-JP
 
 ### Jitsi
 
-![Jitsi icon](https://summerofcode.withgoogle.com/media/org/jitsi/p3456ygkk7vdq0or-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/jitsi/p3456ygkk7vdq0or-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1063,7 +1348,7 @@ lang: ja-JP
 
 ### Joomla
 
-![Joomla icon](https://summerofcode.withgoogle.com/media/org/joomla/dwntn9vfd52jkr9z.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/joomla/dwntn9vfd52jkr9z.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1077,7 +1362,7 @@ lang: ja-JP
 
 ### Joplin
 
-![Joplin icon](https://summerofcode.withgoogle.com/media/org/joplin/0b4z6iftngd1afrp-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/joplin/0b4z6iftngd1afrp-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1091,7 +1376,7 @@ lang: ja-JP
 
 ### JSON Schema
 
-![JSON Schema icon](https://summerofcode.withgoogle.com/media/org/json-schema/d3qfjxegxnlrfysi.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/json-schema/d3qfjxegxnlrfysi.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1107,7 +1392,7 @@ lang: ja-JP
 
 ### KDE Community
 
-![KDE Community icon](https://summerofcode.withgoogle.com/media/org/kde-community/1mbnnsqwd2ejcmy8-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/kde-community/1mbnnsqwd2ejcmy8-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: Project website
 
@@ -1121,7 +1406,7 @@ lang: ja-JP
 
 ### Kiwix
 
-![Kiwix icon](https://summerofcode.withgoogle.com/media/org/kiwix/b6zuffwiyoulh0ku-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/kiwix/b6zuffwiyoulh0ku-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1135,7 +1420,7 @@ lang: ja-JP
 
 ### KolibriOS Project Team
 
-![KolibriOS Project Team icon](https://summerofcode.withgoogle.com/media/org/kolibrios-project-team/mrtxpzuxixjqff62-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/kolibrios-project-team/mrtxpzuxixjqff62-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1149,7 +1434,7 @@ lang: ja-JP
 
 ### Konflux
 
-![Konflux icon](https://summerofcode.withgoogle.com/media/org/konflux/7znpk8j83biro6rn.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/konflux/7znpk8j83biro6rn.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1163,7 +1448,7 @@ lang: ja-JP
 
 ### Kornia
 
-![Kornia icon](https://summerofcode.withgoogle.com/media/org/kornia/p4e366l478clqvvg-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/kornia/p4e366l478clqvvg-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1177,7 +1462,7 @@ lang: ja-JP
 
 ### Kotlin Foundation
 
-![Kotlin Foundation icon](https://summerofcode.withgoogle.com/media/org/kotlin-foundation/2wyghqyy8nvvl4cq-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/kotlin-foundation/2wyghqyy8nvvl4cq-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1191,7 +1476,7 @@ lang: ja-JP
 
 ### Kubeflow
 
-![Kubeflow icon](https://summerofcode.withgoogle.com/media/org/kubeflow/uqphmd1y7opxpjim-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/kubeflow/uqphmd1y7opxpjim-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1205,7 +1490,7 @@ lang: ja-JP
 
 ### KubeVirt
 
-![KubeVirt icon](https://summerofcode.withgoogle.com/media/org/kubevirt/pqdi8ojm0atxoo1s-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/kubevirt/pqdi8ojm0atxoo1s-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1221,7 +1506,7 @@ lang: ja-JP
 
 ### LabLua
 
-![LabLua icon](https://summerofcode.withgoogle.com/media/org/lablua/thpyrwywpx4z6p6s.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/lablua/thpyrwywpx4z6p6s.png){.org-icon width=3.0cm}
 
 - コードホスティング: Project website
 
@@ -1235,7 +1520,7 @@ lang: ja-JP
 
 ### Learning Equality
 
-![Learning Equality icon](https://summerofcode.withgoogle.com/media/org/learning-equality/iptmmzjiktknrg9p-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/learning-equality/iptmmzjiktknrg9p-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1249,7 +1534,7 @@ lang: ja-JP
 
 ### Learning Unlimited
 
-![Learning Unlimited icon](https://summerofcode.withgoogle.com/media/org/learning-unlimited/prqi7cnmji8guahm-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/learning-unlimited/prqi7cnmji8guahm-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1263,7 +1548,7 @@ lang: ja-JP
 
 ### LibreCube Initiative
 
-![LibreCube Initiative icon](https://summerofcode.withgoogle.com/media/org/librecube-initiative/zkfjswciuihmdxu1-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/librecube-initiative/zkfjswciuihmdxu1-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitLab
 
@@ -1277,7 +1562,7 @@ lang: ja-JP
 
 ### LibreHealth
 
-![LibreHealth icon](https://summerofcode.withgoogle.com/media/org/librehealth/wulnuhdjtsi0ngiv-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/librehealth/wulnuhdjtsi0ngiv-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitLab
 
@@ -1291,7 +1576,7 @@ lang: ja-JP
 
 ### LibreOffice
 
-![LibreOffice icon](https://summerofcode.withgoogle.com/media/org/libreoffice/3g60m1gvsyzwzvvk-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/libreoffice/3g60m1gvsyzwzvvk-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: Project website
 
@@ -1305,7 +1590,7 @@ lang: ja-JP
 
 ### libssh
 
-![libssh icon](https://summerofcode.withgoogle.com/media/org/libssh/kcfc8lhxh3uyozbu-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/libssh/kcfc8lhxh3uyozbu-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: Git
 
@@ -1319,7 +1604,7 @@ lang: ja-JP
 
 ### Liquid Galaxy project
 
-![Liquid Galaxy project icon](https://summerofcode.withgoogle.com/media/org/liquid-galaxy-project/idbd8hebl6j7ajxn-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/liquid-galaxy-project/idbd8hebl6j7ajxn-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1333,7 +1618,7 @@ lang: ja-JP
 
 ### LLVM Compiler Infrastructure
 
-![LLVM Compiler Infrastructure icon](https://summerofcode.withgoogle.com/media/org/llvm-compiler-infrastructure/ize6lrlftlvdxtqe-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/llvm-compiler-infrastructure/ize6lrlftlvdxtqe-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1349,7 +1634,7 @@ lang: ja-JP
 
 ### Machine Learning for Science (ML4SCI)
 
-![Machine Learning for Science (ML4SCI) icon](https://summerofcode.withgoogle.com/media/org/machine-learning-for-science-ml4sci/rs5cxhuyh9dpwekt-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/machine-learning-for-science-ml4sci/rs5cxhuyh9dpwekt-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1363,7 +1648,7 @@ lang: ja-JP
 
 ### MalariaGEN
 
-![MalariaGEN icon](https://summerofcode.withgoogle.com/media/org/malariagen/8dgzolp37fdiwm5h-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/malariagen/8dgzolp37fdiwm5h-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1377,7 +1662,7 @@ lang: ja-JP
 
 ### MariaDB
 
-![MariaDB icon](https://summerofcode.withgoogle.com/media/org/mariadb/0nbzguld3ntsgeqv-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/mariadb/0nbzguld3ntsgeqv-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1391,7 +1676,7 @@ lang: ja-JP
 
 ### MDAnalysis
 
-![MDAnalysis icon](https://summerofcode.withgoogle.com/media/org/mdanalysis/kf8rugznsqeskumi-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/mdanalysis/kf8rugznsqeskumi-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1405,7 +1690,7 @@ lang: ja-JP
 
 ### Meshery
 
-![Meshery icon](https://summerofcode.withgoogle.com/media/org/meshery/4ywkbdszwd1sw2rq-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/meshery/4ywkbdszwd1sw2rq-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1419,7 +1704,7 @@ lang: ja-JP
 
 ### MetaBrainz Foundation Inc
 
-![MetaBrainz Foundation Inc icon](https://summerofcode.withgoogle.com/media/org/metabrainz-foundation-inc/m7lax42edddowwnl-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/metabrainz-foundation-inc/m7lax42edddowwnl-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1433,7 +1718,7 @@ lang: ja-JP
 
 ### MetaCall
 
-![MetaCall icon](https://summerofcode.withgoogle.com/media/org/metacall/rezoq3uue7dpdzw5-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/metacall/rezoq3uue7dpdzw5-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1447,7 +1732,7 @@ lang: ja-JP
 
 ### Metaflow
 
-![Metaflow icon](https://summerofcode.withgoogle.com/media/org/metaflow/lxpx64opqtnss7yx-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/metaflow/lxpx64opqtnss7yx-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1461,7 +1746,7 @@ lang: ja-JP
 
 ### Metasploit
 
-![Metasploit icon](https://summerofcode.withgoogle.com/media/org/metasploit/ggisatrqgjavuwd7-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/metasploit/ggisatrqgjavuwd7-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1475,7 +1760,7 @@ lang: ja-JP
 
 ### MIT App Inventor
 
-![MIT App Inventor icon](https://summerofcode.withgoogle.com/media/org/mit-app-inventor/8ppq0spvr3j3gx8q-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/mit-app-inventor/8ppq0spvr3j3gx8q-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1489,7 +1774,7 @@ lang: ja-JP
 
 ### Mixxx
 
-![Mixxx icon](https://summerofcode.withgoogle.com/media/org/mixxx/ivlj1kl8jabpmfs9-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/mixxx/ivlj1kl8jabpmfs9-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1503,7 +1788,7 @@ lang: ja-JP
 
 ### MLLAM
 
-![MLLAM icon](https://summerofcode.withgoogle.com/media/org/mllam/ltm3mtlosvdcrw0c.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/mllam/ltm3mtlosvdcrw0c.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1517,7 +1802,7 @@ lang: ja-JP
 
 ### MoFA Org
 
-![MoFA Org icon](https://summerofcode.withgoogle.com/media/org/mofa-org/fa7e34trht3ou7yo-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/mofa-org/fa7e34trht3ou7yo-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1531,7 +1816,7 @@ lang: ja-JP
 
 ### MoganLab
 
-![MoganLab icon](https://summerofcode.withgoogle.com/media/org/moganlab/tuz5k2kmoivlkods-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/moganlab/tuz5k2kmoivlkods-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1547,7 +1832,7 @@ lang: ja-JP
 
 ### National Resource for Network Biology (NRNB)
 
-![National Resource for Network Biology (NRNB) icon](https://summerofcode.withgoogle.com/media/org/national-resource-for-network-biology-nrnb/5uobjboaxnzrxyoj-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/national-resource-for-network-biology-nrnb/5uobjboaxnzrxyoj-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1561,7 +1846,7 @@ lang: ja-JP
 
 ### Neovim
 
-![Neovim icon](https://summerofcode.withgoogle.com/media/org/neovim/wsjrusphcrjmo5tf-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/neovim/wsjrusphcrjmo5tf-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1575,7 +1860,7 @@ lang: ja-JP
 
 ### Neuroinformatics Unit
 
-![Neuroinformatics Unit icon](https://summerofcode.withgoogle.com/media/org/neuroinformatics-unit/ebzgcbxkxvbe9igk.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/neuroinformatics-unit/ebzgcbxkxvbe9igk.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1589,7 +1874,7 @@ lang: ja-JP
 
 ### Neutralinojs
 
-![Neutralinojs icon](https://summerofcode.withgoogle.com/media/org/neutralinojs/thloxs47w1aa1uts-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/neutralinojs/thloxs47w1aa1uts-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1603,7 +1888,7 @@ lang: ja-JP
 
 ### NixOS Foundation
 
-![NixOS Foundation icon](https://summerofcode.withgoogle.com/media/org/nixos-foundation/kvnnwp7viwupdsep.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/nixos-foundation/kvnnwp7viwupdsep.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1617,7 +1902,7 @@ lang: ja-JP
 
 ### NumFOCUS
 
-![NumFOCUS icon](https://summerofcode.withgoogle.com/media/org/numfocus/wimcwc2v6kjlidqc-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/numfocus/wimcwc2v6kjlidqc-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1633,7 +1918,7 @@ lang: ja-JP
 
 ### omegaUp
 
-![omegaUp icon](https://summerofcode.withgoogle.com/media/org/omegaup/uvgilx7vyspavjox-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/omegaup/uvgilx7vyspavjox-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1647,7 +1932,7 @@ lang: ja-JP
 
 ### Open Food Facts
 
-![Open Food Facts icon](https://summerofcode.withgoogle.com/media/org/open-food-facts/ypo4wfmbo5ueujuf-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/open-food-facts/ypo4wfmbo5ueujuf-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1661,7 +1946,7 @@ lang: ja-JP
 
 ### Open Genome Informatics
 
-![Open Genome Informatics icon](https://summerofcode.withgoogle.com/media/org/open-genome-informatics/p6nhalhjwargwd5s-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/open-genome-informatics/p6nhalhjwargwd5s-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: Project website
 
@@ -1675,7 +1960,7 @@ lang: ja-JP
 
 ### Open HealthCare Network
 
-![Open HealthCare Network icon](https://summerofcode.withgoogle.com/media/org/open-healthcare-network/eutslgqeknc9vlgd-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/open-healthcare-network/eutslgqeknc9vlgd-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1689,7 +1974,7 @@ lang: ja-JP
 
 ### Open Robotics
 
-![Open Robotics icon](https://summerofcode.withgoogle.com/media/org/open-robotics/6pg3nwfpieq1qmqw-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/open-robotics/6pg3nwfpieq1qmqw-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1703,7 +1988,7 @@ lang: ja-JP
 
 ### Open Science Initiative for Perfusion Imaging
 
-![Open Science Initiative for Perfusion Imaging icon](https://summerofcode.withgoogle.com/media/org/open-science-initiative-for-perfusion-imaging/bxlqptrs5g0ovtqz-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/open-science-initiative-for-perfusion-imaging/bxlqptrs5g0ovtqz-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1717,7 +2002,7 @@ lang: ja-JP
 
 ### Open Science Labs
 
-![Open Science Labs icon](https://summerofcode.withgoogle.com/media/org/open-science-labs/rjv8l7mrkiwlv9ab-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/open-science-labs/rjv8l7mrkiwlv9ab-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1731,7 +2016,7 @@ lang: ja-JP
 
 ### Open Technologies Alliance - GFOSS
 
-![Open Technologies Alliance - GFOSS icon](https://summerofcode.withgoogle.com/media/org/open-technologies-alliance-gfoss/kiyijull8pfdypve-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/open-technologies-alliance-gfoss/kiyijull8pfdypve-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1745,7 +2030,7 @@ lang: ja-JP
 
 ### Open Transit Software Foundation
 
-![Open Transit Software Foundation icon](https://summerofcode.withgoogle.com/media/org/open-transit-software-foundation/uz3p7k5vsxduhrhk-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/open-transit-software-foundation/uz3p7k5vsxduhrhk-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1759,7 +2044,7 @@ lang: ja-JP
 
 ### OpenAFS
 
-![OpenAFS icon](https://summerofcode.withgoogle.com/media/org/openafs/hhf0h2zemmqes7kt-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/openafs/hhf0h2zemmqes7kt-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: Git
 
@@ -1773,7 +2058,7 @@ lang: ja-JP
 
 ### OpenAstronomy
 
-![OpenAstronomy icon](https://summerofcode.withgoogle.com/media/org/openastronomy/3wvadxwxjc2arepg-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/openastronomy/3wvadxwxjc2arepg-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: Project website
 
@@ -1787,7 +2072,7 @@ lang: ja-JP
 
 ### OpenELIS Global
 
-![OpenELIS Global icon](https://summerofcode.withgoogle.com/media/org/openelis-global/k6rnzk3hcktzabst-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/openelis-global/k6rnzk3hcktzabst-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1801,7 +2086,7 @@ lang: ja-JP
 
 ### OpenMRS
 
-![OpenMRS icon](https://summerofcode.withgoogle.com/media/org/openmrs/evthgp3dhsqx5kyx-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/openmrs/evthgp3dhsqx5kyx-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1815,7 +2100,7 @@ lang: ja-JP
 
 ### OpenMS Inc
 
-![OpenMS Inc icon](https://summerofcode.withgoogle.com/media/org/openms-inc/qhamer7p2auro5cs-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/openms-inc/qhamer7p2auro5cs-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1829,7 +2114,7 @@ lang: ja-JP
 
 ### OpenStreetMap
 
-![OpenStreetMap icon](https://summerofcode.withgoogle.com/media/org/openstreetmap/ihw4tczyumj0yx81-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/openstreetmap/ihw4tczyumj0yx81-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1843,7 +2128,7 @@ lang: ja-JP
 
 ### openSUSE Project
 
-![openSUSE Project icon](https://summerofcode.withgoogle.com/media/org/opensuse-project/zq11ebxj038xotbe-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/opensuse-project/zq11ebxj038xotbe-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1857,7 +2142,7 @@ lang: ja-JP
 
 ### OpenVINO Toolkit
 
-![OpenVINO Toolkit icon](https://summerofcode.withgoogle.com/media/org/openvino-toolkit/ivzvok335ujezk2z-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/openvino-toolkit/ivzvok335ujezk2z-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1871,7 +2156,7 @@ lang: ja-JP
 
 ### OpenWISP
 
-![OpenWISP icon](https://summerofcode.withgoogle.com/media/org/openwisp/xgfy0r7femccwzvj-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/openwisp/xgfy0r7femccwzvj-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1885,7 +2170,7 @@ lang: ja-JP
 
 ### Oppia Foundation
 
-![Oppia Foundation icon](https://summerofcode.withgoogle.com/media/org/oppia-foundation/nqvgy9fm3aqshwtv-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/oppia-foundation/nqvgy9fm3aqshwtv-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1899,7 +2184,7 @@ lang: ja-JP
 
 ### OSGeo (Open Source Geospatial Foundation)
 
-![OSGeo (Open Source Geospatial Foundation) icon](https://summerofcode.withgoogle.com/media/org/osgeo-open-source-geospatial-foundation/yundulx00fbd1akm-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/osgeo-open-source-geospatial-foundation/yundulx00fbd1akm-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1913,7 +2198,7 @@ lang: ja-JP
 
 ### OWASP Foundation
 
-![OWASP Foundation icon](https://summerofcode.withgoogle.com/media/org/owasp-foundation/haks8qbp0yvjvzge-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/owasp-foundation/haks8qbp0yvjvzge-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1929,7 +2214,7 @@ lang: ja-JP
 
 ### PEcAn Project
 
-![PEcAn Project icon](https://summerofcode.withgoogle.com/media/org/pecan-project/kijyzllr7r1g0ukz-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/pecan-project/kijyzllr7r1g0ukz-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1943,7 +2228,7 @@ lang: ja-JP
 
 ### Pharo Consortium
 
-![Pharo Consortium icon](https://summerofcode.withgoogle.com/media/org/pharo-consortium/zrxygkl3ycuvw6nb-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/pharo-consortium/zrxygkl3ycuvw6nb-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1957,7 +2242,7 @@ lang: ja-JP
 
 ### PostgreSQL
 
-![PostgreSQL icon](https://summerofcode.withgoogle.com/media/org/postgresql/hj9srl9x0o6iendy-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/postgresql/hj9srl9x0o6iendy-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: Git
 
@@ -1971,7 +2256,7 @@ lang: ja-JP
 
 ### preCICE
 
-![preCICE icon](https://summerofcode.withgoogle.com/media/org/precice/19ymcw80uxn8g9ia-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/precice/19ymcw80uxn8g9ia-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1985,7 +2270,7 @@ lang: ja-JP
 
 ### Processing Foundation
 
-![Processing Foundation icon](https://summerofcode.withgoogle.com/media/org/processing-foundation/xr2sncljbvtlop1n-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/processing-foundation/xr2sncljbvtlop1n-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -1999,7 +2284,7 @@ lang: ja-JP
 
 ### Project Mesa
 
-![Project Mesa icon](https://summerofcode.withgoogle.com/media/org/project-mesa/fh3o8surszufvjpv-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/project-mesa/fh3o8surszufvjpv-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2013,7 +2298,7 @@ lang: ja-JP
 
 ### Python Software Foundation
 
-![Python Software Foundation icon](https://summerofcode.withgoogle.com/media/org/python-software-foundation/2vpxhpvcsvgyx3kg-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/python-software-foundation/2vpxhpvcsvgyx3kg-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: Project website
 
@@ -2029,7 +2314,7 @@ lang: ja-JP
 
 ### QC-Devs
 
-![QC-Devs icon](https://summerofcode.withgoogle.com/media/org/qc-devs/nywcx8edxlpsz2kg-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/qc-devs/nywcx8edxlpsz2kg-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2043,7 +2328,7 @@ lang: ja-JP
 
 ### QEMU
 
-![QEMU icon](https://summerofcode.withgoogle.com/media/org/qemu/gik5gsxljb3j1jx1-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/qemu/gik5gsxljb3j1jx1-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitLab
 
@@ -2057,7 +2342,7 @@ lang: ja-JP
 
 ### Qubes OS
 
-![Qubes OS icon](https://summerofcode.withgoogle.com/media/org/qubes-os-f3/4hohuknku00cpaja-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/qubes-os-f3/4hohuknku00cpaja-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2073,7 +2358,7 @@ lang: ja-JP
 
 ### R project for statistical computing
 
-![R project for statistical computing icon](https://summerofcode.withgoogle.com/media/org/r-project-for-statistical-computing/7regeqcjh95nenso-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/r-project-for-statistical-computing/7regeqcjh95nenso-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: Project website
 
@@ -2087,7 +2372,7 @@ lang: ja-JP
 
 ### Rizin
 
-![Rizin icon](https://summerofcode.withgoogle.com/media/org/rizin/7ageygqfyv7wzlee-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/rizin/7ageygqfyv7wzlee-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2101,7 +2386,7 @@ lang: ja-JP
 
 ### rocket.chat
 
-![rocket.chat icon](https://summerofcode.withgoogle.com/media/org/rocketchat/qnog9kebwa9atw3l-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/rocketchat/qnog9kebwa9atw3l-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2115,7 +2400,7 @@ lang: ja-JP
 
 ### RTEMS Project
 
-![RTEMS Project icon](https://summerofcode.withgoogle.com/media/org/rtems-project/mgzdqflwj84er5ml-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/rtems-project/mgzdqflwj84er5ml-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: Project website
 
@@ -2129,7 +2414,7 @@ lang: ja-JP
 
 ### Ruby
 
-![Ruby icon](https://summerofcode.withgoogle.com/media/org/ruby/dc6i7iw8w39rktw1-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/ruby/dc6i7iw8w39rktw1-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2145,7 +2430,7 @@ lang: ja-JP
 
 ### SageMath
 
-![SageMath icon](https://summerofcode.withgoogle.com/media/org/sagemath/1tcj7svgwadc13cj-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/sagemath/1tcj7svgwadc13cj-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: Git
 
@@ -2159,7 +2444,7 @@ lang: ja-JP
 
 ### ScummVM
 
-![ScummVM icon](https://summerofcode.withgoogle.com/media/org/scummvm/bnok4srtehdy3fbj-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/scummvm/bnok4srtehdy3fbj-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2173,7 +2458,7 @@ lang: ja-JP
 
 ### St. Jude Children's Research Hospital
 
-![St. Jude Children's Research Hospital icon](https://summerofcode.withgoogle.com/media/org/st-jude-childrens-research-hospital-ai/qnfe4pckkvrq5tfw-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/st-jude-childrens-research-hospital-ai/qnfe4pckkvrq5tfw-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2187,7 +2472,7 @@ lang: ja-JP
 
 ### stdlib
 
-![stdlib icon](https://summerofcode.withgoogle.com/media/org/stdlib/7ornclj6w5zz9fca-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/stdlib/7ornclj6w5zz9fca-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2201,7 +2486,7 @@ lang: ja-JP
 
 ### STE||AR Group
 
-![STE||AR Group icon](https://summerofcode.withgoogle.com/media/org/stear-group/sebxbtinyakvrevb-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/stear-group/sebxbtinyakvrevb-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2215,7 +2500,7 @@ lang: ja-JP
 
 ### Stichting SU2
 
-![Stichting SU2 icon](https://summerofcode.withgoogle.com/media/org/stichting-su2/vexbqtmew7yd92hp-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/stichting-su2/vexbqtmew7yd92hp-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2229,7 +2514,7 @@ lang: ja-JP
 
 ### Submitty
 
-![Submitty icon](https://summerofcode.withgoogle.com/media/org/submitty/jlpoxlj2rvpot6zv-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/submitty/jlpoxlj2rvpot6zv-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2243,7 +2528,7 @@ lang: ja-JP
 
 ### Sugar Labs
 
-![Sugar Labs icon](https://summerofcode.withgoogle.com/media/org/sugar-labs/pgbt7fp6gr6lhihd-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/sugar-labs/pgbt7fp6gr6lhihd-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2257,7 +2542,7 @@ lang: ja-JP
 
 ### SW360
 
-![SW360 icon](https://summerofcode.withgoogle.com/media/org/sw360/scylub8cx6f9mkzk-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/sw360/scylub8cx6f9mkzk-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2271,7 +2556,7 @@ lang: ja-JP
 
 ### Swift
 
-![Swift icon](https://summerofcode.withgoogle.com/media/org/swift/moutmu5fv3rozvrz-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/swift/moutmu5fv3rozvrz-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2285,7 +2570,7 @@ lang: ja-JP
 
 ### SymPy
 
-![SymPy icon](https://summerofcode.withgoogle.com/media/org/sympy/iz2tcxocrknp1sm0-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/sympy/iz2tcxocrknp1sm0-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2299,7 +2584,7 @@ lang: ja-JP
 
 ### Synfig
 
-![Synfig icon](https://summerofcode.withgoogle.com/media/org/synfig/ohcj3eigerib4jym-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/synfig/ohcj3eigerib4jym-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2315,7 +2600,7 @@ lang: ja-JP
 
 ### TARDIS RT Collaboration
 
-![TARDIS RT Collaboration icon](https://summerofcode.withgoogle.com/media/org/tardis-rt-collaboration/0ocxr3jw3fwdloye-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/tardis-rt-collaboration/0ocxr3jw3fwdloye-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2329,7 +2614,7 @@ lang: ja-JP
 
 ### The FreeBSD Project
 
-![The FreeBSD Project icon](https://summerofcode.withgoogle.com/media/org/the-freebsd-project/4jmspor6mcto9wti-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/the-freebsd-project/4jmspor6mcto9wti-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: Git
 
@@ -2343,7 +2628,7 @@ lang: ja-JP
 
 ### The Honeynet Project
 
-![The Honeynet Project icon](https://summerofcode.withgoogle.com/media/org/the-honeynet-project/pvycoc21p2ketj7b-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/the-honeynet-project/pvycoc21p2ketj7b-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2357,7 +2642,7 @@ lang: ja-JP
 
 ### The JPF team
 
-![The JPF team icon](https://summerofcode.withgoogle.com/media/org/the-jpf-team-hg/rvqtnz4hyojrfgvw.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/the-jpf-team-hg/rvqtnz4hyojrfgvw.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2371,7 +2656,7 @@ lang: ja-JP
 
 ### The Julia Language
 
-![The Julia Language icon](https://summerofcode.withgoogle.com/media/org/the-julia-language/49fck3n7j5aqnpwu-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/the-julia-language/49fck3n7j5aqnpwu-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2385,7 +2670,7 @@ lang: ja-JP
 
 ### The Libreswan Project
 
-![The Libreswan Project icon](https://summerofcode.withgoogle.com/media/org/the-libreswan-project/k7boxaxvirkfj1ti-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/the-libreswan-project/k7boxaxvirkfj1ti-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2399,7 +2684,7 @@ lang: ja-JP
 
 ### The Linux Foundation
 
-![The Linux Foundation icon](https://summerofcode.withgoogle.com/media/org/the-linux-foundation/ydeu9rliawhe6of9-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/the-linux-foundation/ydeu9rliawhe6of9-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2413,7 +2698,7 @@ lang: ja-JP
 
 ### The Mifos Initiative
 
-![The Mifos Initiative icon](https://summerofcode.withgoogle.com/media/org/the-mifos-initiative/etmiqn0lkvfxvm5p-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/the-mifos-initiative/etmiqn0lkvfxvm5p-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2427,7 +2712,7 @@ lang: ja-JP
 
 ### The NetBSD Foundation
 
-![The NetBSD Foundation icon](https://summerofcode.withgoogle.com/media/org/the-netbsd-foundation/gi3vozsqpecopqku-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/the-netbsd-foundation/gi3vozsqpecopqku-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2441,7 +2726,7 @@ lang: ja-JP
 
 ### The ns-3 Network Simulator Project
 
-![The ns-3 Network Simulator Project icon](https://summerofcode.withgoogle.com/media/org/the-ns-3-network-simulator-project/0zmaec44y4jcfuj2-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/the-ns-3-network-simulator-project/0zmaec44y4jcfuj2-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitLab
 
@@ -2455,7 +2740,7 @@ lang: ja-JP
 
 ### The OpenROAD Initiative
 
-![The OpenROAD Initiative icon](https://summerofcode.withgoogle.com/media/org/the-openroad-initiative/wsxrroe08v4rdaga-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/the-openroad-initiative/wsxrroe08v4rdaga-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2469,7 +2754,7 @@ lang: ja-JP
 
 ### The P4 Language Consortium
 
-![The P4 Language Consortium icon](https://summerofcode.withgoogle.com/media/org/the-p4-language-consortium/tru8mncy4zqlbxhe.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/the-p4-language-consortium/tru8mncy4zqlbxhe.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2483,7 +2768,7 @@ lang: ja-JP
 
 ### The Rust Foundation
 
-![The Rust Foundation icon](https://summerofcode.withgoogle.com/media/org/the-rust-foundation/pplrhxvka7dufvsn.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/the-rust-foundation/pplrhxvka7dufvsn.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2497,7 +2782,7 @@ lang: ja-JP
 
 ### Tiled
 
-![Tiled icon](https://summerofcode.withgoogle.com/media/org/tiled/bat2ba3t9fujdzyn-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/tiled/bat2ba3t9fujdzyn-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2511,7 +2796,7 @@ lang: ja-JP
 
 ### Typelevel
 
-![Typelevel icon](https://summerofcode.withgoogle.com/media/org/typelevel/hxlcctbqekguxcxx.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/typelevel/hxlcctbqekguxcxx.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2527,7 +2812,7 @@ lang: ja-JP
 
 ### UC OSPO
 
-![UC OSPO icon](https://summerofcode.withgoogle.com/media/org/center-for-research-in-open-source-software-cross/ndbkr7fqcqp4nguq-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/center-for-research-in-open-source-software-cross/ndbkr7fqcqp4nguq-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2541,7 +2826,7 @@ lang: ja-JP
 
 ### Unikraft
 
-![Unikraft icon](https://summerofcode.withgoogle.com/media/org/unikraft/5nx7anuq3iixdm54.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/unikraft/5nx7anuq3iixdm54.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2555,7 +2840,7 @@ lang: ja-JP
 
 ### United Nations Office of Information Communication Technology
 
-![United Nations Office of Information Communication Technology icon](https://summerofcode.withgoogle.com/media/org/united-nations-office-of-information-communication-technology/bl0zv6y6mjmzuybz-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/united-nations-office-of-information-communication-technology/bl0zv6y6mjmzuybz-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2569,7 +2854,7 @@ lang: ja-JP
 
 ### Uramaki LAB
 
-![Uramaki LAB icon](https://summerofcode.withgoogle.com/media/org/uramaki-lab/pr3ivuk0zg7lhgj1-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/uramaki-lab/pr3ivuk0zg7lhgj1-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2585,7 +2870,7 @@ lang: ja-JP
 
 ### VideoLAN
 
-![VideoLAN icon](https://summerofcode.withgoogle.com/media/org/videolan/9h28hsncvrt01voz-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/videolan/9h28hsncvrt01voz-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: Project website
 
@@ -2601,7 +2886,7 @@ lang: ja-JP
 
 ### Wagtail
 
-![Wagtail icon](https://summerofcode.withgoogle.com/media/org/wagtail/so6hnqeqh2cp4jbx-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/wagtail/so6hnqeqh2cp4jbx-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2615,7 +2900,7 @@ lang: ja-JP
 
 ### webpack
 
-![webpack icon](https://summerofcode.withgoogle.com/media/org/webpack/bb5phgrkm0y4op3e-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/webpack/bb5phgrkm0y4op3e-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2629,7 +2914,7 @@ lang: ja-JP
 
 ### Wikimedia Foundation
 
-![Wikimedia Foundation icon](https://summerofcode.withgoogle.com/media/org/wikimedia-foundation-nd/2e6sdwa8tksr5sg2-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/wikimedia-foundation-nd/2e6sdwa8tksr5sg2-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: Gerrit
 
@@ -2645,7 +2930,7 @@ lang: ja-JP
 
 ### Zulip
 
-![Zulip icon](https://summerofcode.withgoogle.com/media/org/zulip/sx5ruvwv6nyugbk7-360.png){.org-icon}
+![](https://summerofcode.withgoogle.com/media/org/zulip/sx5ruvwv6nyugbk7-360.png){.org-icon width=3.0cm}
 
 - コードホスティング: GitHub
 
@@ -2657,7 +2942,7 @@ lang: ja-JP
 
 - 読者像: 利用者に近いプロダクトを改善したい読者に分かりやすい題材
 
-## おわりに
+# おわりに
 
 Google Summer of Code の参加機関一覧を最後まで眺めると、OSS が単なる Web アプリやライブラリにとどまらず、科学計算、教育、医療、OS、セキュリティ、メディア、地理空間、コンパイラ、ロボティクスまで広がっていることがよく分かります。
 
@@ -2667,7 +2952,7 @@ Google Summer of Code の参加機関一覧を最後まで眺めると、OSS が
 
 ## 奥付
 
-- 書名: 世の中の Open Source Software を把握しよう！ Google Summer of Code 2026 の参加機関を解説
+- 書名: 世の中の Open Source Software を把握しよう！ Google Summer of Code 2026 の参加機関184個をざっと解説
 
 - 著者: 作業リポジトリ原稿
 
@@ -2675,6 +2960,10 @@ Google Summer of Code の参加機関一覧を最後まで眺めると、OSS が
 
 - 確認基準日: 2026-04-03
 
-- 原稿管理: manuscript/book.md
-
+- 原稿管理: manuscript/book.md
+
+---
+
+![背表紙](../img/owari2.jpg){.back-cover-image}
+
 

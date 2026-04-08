@@ -1,4 +1,4 @@
-param(
+﻿param(
     [string]$InputPath = "manuscript/book.md",
     [string]$OutputDir = "output",
     [string[]]$Formats = @("html", "epub", "docx"),
@@ -7,7 +7,6 @@ param(
     [string]$Author,
     [string]$DocumentLang = "ja",
     [string]$PublishedDate = (Get-Date -Format "yyyy-MM-dd"),
-    [string]$PdfEngine,
     [switch]$Clean
 )
 
@@ -25,7 +24,26 @@ if (-not (Test-Path -LiteralPath $resolvedInput)) {
 
 $pandocCommand = Get-Command pandoc -ErrorAction SilentlyContinue
 if (-not $pandocCommand) {
-    throw "pandoc is required. Install it first, for example with: winget install --id JohnMacFarlane.Pandoc -e"
+    $fallbackPaths = @(
+        "$env:LOCALAPPDATA\Microsoft\WinGet\Packages\JohnMacFarlane.Pandoc_Microsoft.Winget.Source_8wekyb3d8bbwe\pandoc-3.9.0.2\pandoc.exe"
+    )
+    $found = $fallbackPaths | Where-Object { Test-Path $_ } | Select-Object -First 1
+    if ($found) {
+        $pandocCommand = [PSCustomObject]@{ Source = $found }
+    } else {
+        throw "pandoc is required. Install: winget install --id JohnMacFarlane.Pandoc -e"
+    }
+}
+
+$chromeExe = $null
+$chromeCandidates = @(
+    "$env:ProgramFiles\Google\Chrome\Application\chrome.exe",
+    "$env:LOCALAPPDATA\Google\Chrome\Application\chrome.exe"
+)
+$x86 = ${env:ProgramFiles(x86)}
+if ($x86) { $chromeCandidates += "$x86\Google\Chrome\Application\chrome.exe" }
+foreach ($c in $chromeCandidates) {
+    if (Test-Path $c) { $chromeExe = $c; break }
 }
 
 New-Item -ItemType Directory -Path $resolvedOutputDir -Force | Out-Null
@@ -62,36 +80,52 @@ if (Test-Path -LiteralPath $resolvedCss) {
 
 foreach ($format in $Formats) {
     $normalizedFormat = $format.ToLowerInvariant()
-    $outputPath = $null
-    $formatArgs = @()
 
     switch ($normalizedFormat) {
         "html" {
-            $outputPath = Join-Path $resolvedOutputDir "$BaseName.html"
+            $outputPath = Join-Path $resolvedOutputDir ($BaseName + ".html")
             $formatArgs = @("--to", "html5", "--embed-resources") + $cssArgs
+            Write-Host "Converting to html -> $outputPath"
+            & $pandocCommand.Source $resolvedInput "-o" $outputPath @commonArgs @formatArgs
         }
         "epub" {
-            $outputPath = Join-Path $resolvedOutputDir "$BaseName.epub"
+            $outputPath = Join-Path $resolvedOutputDir ($BaseName + ".epub")
             $formatArgs = @("--to", "epub3") + $cssArgs
+            Write-Host "Converting to epub -> $outputPath"
+            & $pandocCommand.Source $resolvedInput "-o" $outputPath @commonArgs @formatArgs
         }
         "docx" {
-            $outputPath = Join-Path $resolvedOutputDir "$BaseName.docx"
-            $formatArgs = @("--to", "docx")
+            $mdForDocx = Join-Path $resolvedOutputDir ($BaseName + "-for-docx.md")
+            $outputPath = Join-Path $resolvedOutputDir ($BaseName + ".docx")
+            Write-Host "Adding page breaks (2 orgs per page) -> $mdForDocx"
+            $pyScript = Join-Path $repoRoot "scripts/add-docx-pagebreaks.py"
+            & python3 $pyScript $resolvedInput $mdForDocx
+            Write-Host "Converting to docx -> $outputPath"
+            & $pandocCommand.Source $mdForDocx "-o" $outputPath @commonArgs "--to" "docx"
         }
         "pdf" {
-            $outputPath = Join-Path $resolvedOutputDir "$BaseName.pdf"
-            $formatArgs = @("--to", "pdf")
-            if ($PdfEngine) {
-                $formatArgs += @("--pdf-engine", $PdfEngine)
+            if (-not $chromeExe) {
+                throw "Chrome not found. Please install Google Chrome."
             }
+            $htmlForPdf = Join-Path $resolvedOutputDir ($BaseName + "-for-pdf.html")
+            $outputPath  = Join-Path $resolvedOutputDir ($BaseName + ".pdf")
+
+            Write-Host "Converting to html (for pdf) -> $htmlForPdf"
+            & $pandocCommand.Source $resolvedInput "-o" $htmlForPdf @commonArgs "--to" "html5" "--embed-resources" @cssArgs
+
+            Write-Host "Adding page breaks (2 orgs per page)"
+            $pyScript = Join-Path $repoRoot "scripts/add-pdf-pagebreaks.py"
+            & python3 $pyScript $htmlForPdf
+
+            Write-Host "Converting to pdf (via Chrome) -> $outputPath"
+            $htmlUri = "file:///" + $htmlForPdf.Replace("\", "/")
+            $chromeArgs = "--headless=new --disable-gpu --no-sandbox --run-all-compositor-stages-before-draw --print-to-pdf=`"$outputPath`" --print-to-pdf-no-header `"$htmlUri`""
+            Start-Process -FilePath $chromeExe -ArgumentList $chromeArgs -Wait -NoNewWindow
         }
         default {
-            throw "Unsupported format: $format. Supported formats are html, epub, docx, pdf."
+            throw "Unsupported format: $format. Supported: html, epub, docx, pdf."
         }
     }
-
-    Write-Host "Converting to $normalizedFormat -> $outputPath"
-    & $pandocCommand.Source $resolvedInput "-o" $outputPath @commonArgs @formatArgs
 }
 
 Write-Host "Completed. Outputs are in $resolvedOutputDir"

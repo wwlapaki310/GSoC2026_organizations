@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc -l /c/Users/wwlap/workspace/GSoC2026_organizations/manuscript/organizations/*.md)",
+      "Bash(pwsh ./scripts/convert-book.ps1)",
+      "Read(//c/Windows/System32/WindowsPowerShell/v1.0/**)",
+      "Bash(cmd.exe /c \"where pwsh\")",
+      "Bash(powershell -ExecutionPolicy Bypass -File scripts/convert-book.ps1)",
+      "Bash(cmd.exe /c \"where pandoc\")",
+      "Bash(cmd.exe /c \"winget install --id JohnMacFarlane.Pandoc -e\")",
+      "Bash(cmd.exe /c \"winget install --id JohnMacFarlane.Pandoc -e --accept-package-agreements --accept-source-agreements\")"
+    ]
+  }
+}

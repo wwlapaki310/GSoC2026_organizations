@@ -3,8 +3,7 @@
 技術書店向け原稿
 
 仮題:
-「世の中の Open Source Software を把握しよう！
- Google Summer of Code 2026 の参加機関を解説」
+「世の中の Open Source Software を把握しよう！ Google Summer of Code 2026 の参加機関184個をざっと解説」
 
 ## このリポジトリの目的
 
