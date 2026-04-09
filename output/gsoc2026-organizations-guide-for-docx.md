@@ -1,16 +1,10 @@
 ---
 title: "世の中の Open Source Software を把握しよう！ Google Summer of Code 2026 の参加機関184個をざっと解説"
 lang: ja-JP
-cover-image: "img/hyoushi.jpg"
+cover-image: "img/hyoushi.png"
 ---
 
-![表紙](../img/hyoushi.jpg){.cover-image}
-
-```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
-```
-
-**世の中の Open Source Software を把握しよう！ Google Summer of Code 2026 の参加機関184個をざっと解説**
+![](../img/hyoushi.png){.full-page-cover width=19cm height=26.9cm}
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -3405,20 +3399,6 @@ Google Summer of Code の参加機関一覧を最後まで眺めると、OSS が
 
 技術書店向けの一冊として、本書が OSS の入り口を広げる地図になれば幸いです。
 
-## 奥付
-
-- 書名: 世の中の Open Source Software を把握しよう！ Google Summer of Code 2026 の参加機関184個をざっと解説
-
-- 著者: 作業リポジトリ原稿
-
-- 対象データ: Google Summer of Code 2026 accepted organizations
-
-- 確認基準日: 2026-04-03
-
-- 原稿管理: manuscript/book.md
-
----
-
-![背表紙](../img/owari2.jpg){.back-cover-image}
+![](../img/owari.png){.full-page-cover width=19cm height=26.9cm}
 
 
